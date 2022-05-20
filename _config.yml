@@ -1,0 +1,26 @@
+# Site wide configuration
+
+title: Joan Serrà's website
+locale: en_US
+logo: jserra-circlecrop_small.png
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Joan Serra
+  avatar: jserra-circlecrop_small.jpg
+  bio: "Personal website."
+  email: 
+  # Do not include the @ symbol in your Twitter username
+  twitter: serrjoa
+  linkedin: joan-serrà-b9249018
+  github: joansj
+  orcid: #id
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics: #username
+    verify: #username
+    scholar: sZLj96sAAAAJ
+
+
