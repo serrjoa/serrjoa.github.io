@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: #none
+title: ''
 locale: en_US
 logo: jserra-circlecrop_small.png
 
