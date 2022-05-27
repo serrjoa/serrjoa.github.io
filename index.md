@@ -1,3 +1,8 @@
+---
+layout: page
+title: Joan Serrà's personal web page
+---
+
 <a name="beginning"></a>
 
 ![Joan Serrà](media/logo_white.png)
