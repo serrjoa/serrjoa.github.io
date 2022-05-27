@@ -1030,8 +1030,6 @@ Appearances in media: *\[Sorry for the broken links, I promise these all worked 
 > 08018 Barcelona <br>
 > firstname (dot) serra (at) dolby (dot) com <br>
 
-<br>
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2992.6061449347076!2d2.1916310163261206!3d41.404358979262405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a32345143ac1%3A0x24ee709ab0dfc633!2sAvinguda%20Diagonal%2C%20177%2C%2008018%20Barcelona!5e0!3m2!1sen!2ses!4v1572971804008!5m2!1sen!2ses" style="border:0;" allowfullscreen="" width="600" height="450" frameborder="0"></iframe>
 
 <br>
