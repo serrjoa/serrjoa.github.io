@@ -3,7 +3,7 @@ layout: page
 title: Joan Serrà's personal web page
 ---
 
-<a name="beginning"></a>
+<link rel="shortcut icon" type="image/png" href="media/jserra-circlecrop_small-1.png"><a name="beginning"></a>
 
 ![Joan Serrà](media/logo_white.png)
 
