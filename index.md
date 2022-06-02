@@ -796,7 +796,7 @@ J. Serrà<br>
 
 # Misc <a name="misc"></a>
 
-## Experience-education <a name="misc-experience"></a>
+## Experience/education <a name="misc-experience"></a>
 
 **[Dolby Laboratories](https://www.dolby.com/)** (2019-Present). Research scientist. [AI team](https://dolby.io/audio-research/), Advanced Technology Group.
 
