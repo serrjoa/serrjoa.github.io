@@ -15,7 +15,7 @@ You can also find me on [Twitter](https://twitter.com/serrjoa), [Google Scholar]
 
 **Page contents**
 * **[Short bio](#shortbio)**
-* **[Publications](#publications)**: [ongoing](#pub-ongoing), [recent (2021-2022)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (2010 and before)](#pub-prehistoric).
+* **[Publications](#publications)**: [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (2010 and before)](#pub-prehistoric).
 * **[Talks](#talks)**
 * **[Misc](#misc)**: [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
 * **[Contact](#contact)**
@@ -38,7 +38,7 @@ J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 
 \[[Back to top](#beginning)\]
 
-## Recent (2021-2022) <a name="pub-recent"></a>
+## Recent (2021-current) <a name="pub-recent"></a>
 
 ### 2022
 
@@ -799,7 +799,7 @@ J. Serrà<br>
 ## Experience-education <a name="misc-experience"></a>
 
 **[Dolby Laboratories](https://www.dolby.com/)** (2019-Present). Research scientist. [AI team](https://dolby.io/audio-research/), Advanced Technology Group.
-​
+
 **[Telefónica R&D](http://www.tid.es/)** (2015-2019). Research scientist. Machine Learning, Data Mining and User Modeling Group.
 
 **[Spanish National Research Council](http://www.csic.es/)** (2011-2015). Postdoctoral researcher. Artificial Intelligence Research Institute (IIIA-CSIC). Dept. of Learning Systems.
