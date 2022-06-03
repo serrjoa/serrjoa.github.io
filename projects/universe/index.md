@@ -7,17 +7,13 @@ title: UNIVERSE
 
 This is the companion page of UNIVERSE, the universal speech enhancer described in the paper "Universal Speech Enhancement With Score-based Diffusion" by Joan Serrà, Santiago Pascual, Jordi Pons, R. Oguz Araz, and Davide Scaini. To access the paper, click [here]().
 
-## Info
+In this page you will find [basic information](#info) about the paper, three sets of speech enhancement [examples](#examples), and a link to some instances of our [validation set](#valset).
+
+## Info <a name="info"></a>
 
 ### Abstract
 
 Removing background noise from speech audio has been the subject of considerable research and effort, especially in recent years due to the rise of virtual communication and amateur sound recording. Yet background noise is not the only unpleasant disturbance that can prevent intelligibility: reverb, clipping, codec artifacts, problematic equalization, limited bandwidth, or inconsistent loudness are equally disturbing and ubiquitous. In this work, we propose to consider the task of speech enhancement as a holistic endeavor, and present a universal speech enhancement system that tackles 55 different distortions at the same time. Our approach consists of a generative model that employs score-based diffusion, together with a multi-resolution conditioning network that performs enhancement with mixture density networks. We show that this approach significantly outperforms the state of the art in a subjective test performed by expert listeners. We also show that it achieves competitive objective scores with just 4-8 diffusion steps, despite not considering any particular strategy for fast sampling. We hope that both our methodology and technical contributions encourage researchers and practitioners to adopt a universal approach to speech enhancement, possibly framing it as a generative task.
-
-### Reference
-
-> **Universal Speech Enhancement With Score-based Diffusion** <br>
-> J. Serrà, S. Pascual, J. Pons, R. O. Araz, & D. Scaini. <br>
-> *Preprint*. June 2022.
 
 ### Core idea
 
@@ -25,11 +21,17 @@ The next video highlights the core idea of the project.
 
 <div style="text-align: center"><iframe src="https://player.vimeo.com/video/713702603?h=47bb673343&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="talk-1d-540p"></iframe></div>
 
-## Examples
+### Reference
 
-Here we provide a number of examples of enhancements performed by UNIVERSE. There are three sections: (1) examples enhancing the speech in real-world videos, (2) examples enhancing real-world speech recordings, and (3) examples from our validation set highlighting the removal of different and often simultaneous distortions.
+> **Universal Speech Enhancement With Score-based Diffusion** <br>
+> J. Serrà, S. Pascual, J. Pons, R. O. Araz, & D. Scaini. <br>
+> *Preprint*. June 2022.
 
-### Real-world speech from video
+## Examples <a name="examples"></a>
+
+Here we provide a number of examples of enhancements performed by UNIVERSE. There are three sections: (1) examples enhancing the speech in [real-world videos](#ex_video), (2) examples enhancing [real-world speech recordings](#ex_real), and (3) examples from our [validation set](#ex_valid) highlighting the removal of different and often simultaneous distortions.
+
+### Real-world speech from video <a name="ex_video"></a>
 
 *\[Sources: [Internet Archive](https://archive.org/) and [Youtube](https://www.youtube.com/) \| License: Creative Commons (see videos)\]*
 
@@ -59,7 +61,7 @@ Here we provide a number of examples of enhancements performed by UNIVERSE. Ther
 
 <div style="text-align: left"><iframe src="https://player.vimeo.com/video/713702479?h=4db26f9c57&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="480" height="270" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="sports-1-540p"></iframe></div>
 
-### Real-world speech recordings
+### Real-world speech recordings <a name="ex_real"></a>
 
 *\[Source: [Freesound](https://freesound.org/) \| License: Creative Commons [CC-0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)\]*
 
@@ -276,7 +278,7 @@ Here we provide a number of examples of enhancements performed by UNIVERSE. Ther
   </tbody>
 </table>
 
-### Validation set utterances
+### Validation set utterances <a name="ex_valid"></a>
 
 *\[Sources: Publicly-available data sets (see paper) \| License: Creative Commons [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)\]*
 
@@ -590,7 +592,7 @@ Here we provide a number of examples of enhancements performed by UNIVERSE. Ther
   </tbody>
 </table>
 
-## Validation subset download
+## Validation subset download <a name="valset"></a>
 
 To foster further subjective evaluation, we provide the first (random) 100 utterances of our validation data [here](https://dolby.box.com/s/mq5uxiv0rmo2nqbi3gxhrke87lngpn0e). Input, target, and enhanced files are included, together with a small description of speech/noise sources and applied distortions.
 
