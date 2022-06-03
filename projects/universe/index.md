@@ -31,7 +31,7 @@ Here we provide a number of examples of enhancements performed by UNIVERSE. Ther
 
 ### Real-world speech from video
 
-*\[Sources: [Internet Archive](https://archive.org/) and [Youtube](https://www.youtube.com/); License: Creative Commons (see videos)\]*
+*\[Sources: [Internet Archive](https://archive.org/) and [Youtube](https://www.youtube.com/) \| License: Creative Commons (see videos)\]*
 
 **Documentaries** &mdash; In old documentaries, the speech voice is usually band limited and dynamically compressed. In addition, recordings can also contain some background noise or codec artifacts due to suboptimal recording or digitization, respectively. Clipping or reverb may also be not in full control.
 
@@ -61,7 +61,7 @@ Here we provide a number of examples of enhancements performed by UNIVERSE. Ther
 
 ### Real-world speech recordings
 
-*\[Source: [Freesound](https://freesound.org/); License: Creative Commons [CC-0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)\]*
+*\[Source: [Freesound](https://freesound.org/) \| License: Creative Commons [CC-0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)\]*
 
 **Background noise** &mdash; Here we remove background noise under different SNRs.
 
@@ -278,7 +278,7 @@ Here we provide a number of examples of enhancements performed by UNIVERSE. Ther
 
 ### Validation set utterances
 
-*\[Sources: Publicly-available data sets (see paper); License: Creative Commons [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)\]*
+*\[Sources: Publicly-available data sets (see paper) \| License: Creative Commons [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en)\]*
 
 **Silent gaps**
 
