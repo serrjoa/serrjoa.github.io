@@ -5,7 +5,7 @@ title: UNIVERSE
 
 # Universal Speech Enhancement With Score-based Diffusion
 
-This is the companion page of UNIVERSE, the universal speech enhancer described in the paper "Universal Speech Enhancement With Score-based Diffusion" by Joan Serrà, Santiago Pascual, Jordi Pons, R. Oguz Araz, and Davide Scaini. To access the paper, click [here]().
+This is the companion page of UNIVERSE, the universal speech enhancer described in the paper "Universal Speech Enhancement With Score-based Diffusion" by Joan Serrà, Santiago Pascual, Jordi Pons, R. Oguz Araz, and Davide Scaini. To access the paper, click [here](https://arxiv.org/abs/2206.03065).
 
 In this page you will find [basic information](#info) about the paper, three sets of speech enhancement [examples](#examples), and a link to some instances of our [validation set](#valset).
 
@@ -25,7 +25,7 @@ The next video highlights the core idea of the project.
 
 > **Universal Speech Enhancement With Score-based Diffusion** <br>
 > J. Serrà, S. Pascual, J. Pons, R. O. Araz, & D. Scaini. <br>
-> *Preprint*. June 2022.
+> \[Arxiv: 2206.03065](https://arxiv.org/abs/2206.03065). June 2022.
 
 ## Examples <a name="examples"></a>
 

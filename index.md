@@ -32,6 +32,10 @@ I am a research scientist with [Dolby Laboratories](https://www.dolby.com/) in B
 
 ## Ongoing
 
+> **Universal speech enhancement with score-based diffusion** <br>
+J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
+\[[arxiv](https://arxiv.org/abs/2206.03065)\] \[[examples](https://serrjoa.github.io/projects/universe/)\]
+
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 \[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
