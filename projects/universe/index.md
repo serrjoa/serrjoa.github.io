@@ -24,8 +24,8 @@ The next video highlights the core idea of the project.
 ### Reference
 
 > **Universal Speech Enhancement With Score-based Diffusion** <br>
-> J. Serrà, S. Pascual, J. Pons, R. O. Araz, & D. Scaini. <br>
-> \[Arxiv: 2206.03065](https://arxiv.org/abs/2206.03065). June 2022.
+J. Serrà, S. Pascual, J. Pons, R. O. Araz, & D. Scaini. <br>
+[Arxiv: 2206.03065](https://arxiv.org/abs/2206.03065). June 2022.
 
 ## Examples <a name="examples"></a>
 
