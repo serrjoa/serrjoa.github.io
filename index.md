@@ -762,7 +762,7 @@ J. Serrà<br>
 
 **Imagination in power! Deep generative models with a focus on speech and music**: [Casa de Cultura de Girona](https://casadecultura.org/cicles/675/ultimes-fronteres-la-ciencia-del-segle-xxi) (12/5/2022).
 
-**Universal, generative speech enhancement**: Keynote at the [Deep Learning Barcelona Symp. 2021](https://sites.google.com/view/deep-learning-barcelona-2021/) (23/12/2021) \[[youtube](https://youtu.be/pSGES0_XqaE), min 3\].
+**Universal, generative speech enhancement**: Keynote at the [Deep Learning Barcelona Symp. 2021](https://sites.google.com/view/deep-learning-barcelona-2021/) (23/12/2021) \[[youtube](https://youtu.be/pSGES0_XqaE), starts around 3:02:00\].
 
 **Deep generative audio at Dolby**: [Universitat de Girona](https://www.udg.edu/) - [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) (30/11/2021).
 
