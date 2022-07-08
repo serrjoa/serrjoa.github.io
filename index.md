@@ -24,7 +24,7 @@ You can also find me on [Twitter](https://twitter.com/serrjoa), [Google Scholar]
 
 # Short bio <a name="shortbio"></a>
 
-I am a research scientist with [Dolby Laboratories](https://www.dolby.com/) in Barcelona (since 2019). I work on deep learning for audio analysis and synthesis. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did my MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011). I also did a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly-cited and/or in top-tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge), and give talks and lectures on subjects of my interest (lately basically related to deep learning and generative modeling).
+I am the head of the Applied AI team at [Dolby Laboratories](https://www.dolby.com/) (since 2022). We do research on deep learning methods, with a focus on audio/multimodal analysis and synthesis. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did my MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and, later, [Dolby Laboratories](https://www.dolby.com/) as staff researcher (2019-2022). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly-cited and/or in top-tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge), and give talks and lectures on subjects of my interest (lately basically related to deep learning and generative modeling).
 
 \[[Back to top](#beginning)\]
 
@@ -802,7 +802,7 @@ J. Serrà<br>
 
 ## Experience/education <a name="misc-experience"></a>
 
-**[Dolby Laboratories](https://www.dolby.com/)** (2019-Present). Research scientist. [AI team](https://dolby.io/audio-research/), Advanced Technology Group.
+**[Dolby Laboratories](https://www.dolby.com/)** (2019-Present). Research scientist and now head of the [Applied AI team](https://dolby.io/audio-research/), Advanced Technology Group.
 
 **[Telefónica R&D](http://www.tid.es/)** (2015-2019). Research scientist. Machine Learning, Data Mining and User Modeling Group.
 
