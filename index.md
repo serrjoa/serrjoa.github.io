@@ -75,7 +75,7 @@ S. Pascual, J. Serrà, & J. Pons <br>
 
 > **Universal speech enhancement with generative neural networks** <br>
 J. Serrà, S. Pascual, & J. Pons <br>
-*Patent Application* No. ES-P202130914 (Sep 29, 2021).
+*Patent Application* No. ES-P202130914 (Sep 29, 2021), US-63/287207 (Dec 8, 2021), US-63/392575 (Jul 27, 2022).
 
 > **Heaps' law and vocabulary richness in the history of classical music harmony** <br>
 M. Serra-Peralta, J. Serrà, & A. Corral <br>
