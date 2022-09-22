@@ -26,7 +26,7 @@ I am the head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (sin
 
 # Publications <a name="publications"></a>
 
-## Ongoing
+## Ongoing <a name="pub-ongoing"></a>
 
 > **Universal speech enhancement with score-based diffusion** <br>
 J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
@@ -42,14 +42,14 @@ J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 
 ### 2022
 
+> **On loss functions and evaluation metrics for music source separation** <br>
+E. Gusó, J. Pons, S. Pascual, & J. Serrà <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 306-310. May 2022. <br>
+\[[arxiv](https://arxiv.org/abs/2202.07968)\] \[[doi](https://doi.org/10.1109/ICASSP43922.2022.9746530)\]
+
 > **Self-supervised perceptual audio encoding by mixing discriminative and reconstructive tasks** <br>
 S. Pascual, J. Serrà, & J. Pons <br>
 *Patent Application* No. ES-202230230 (Mar 18, 2022).
-
-> **On loss functions and evaluation metrics for music source separation** <br>
-E. Gusó, J. Pons, S. Pascual, & J. Serrà <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*. In press. <br>
-\[[arxiv](https://arxiv.org/abs/2202.07968)\] \[[doi](https://doi.org/10.1109/ICASSP43922.2022.9746530)\]
 
 > **Assessing algorithmic biases for musical version identification** <br>
 F. Yesiler, M. Miron, J. Serrà, & E. Gómez <br>
@@ -822,7 +822,7 @@ J. Serrà<br>
 
 **Conference reviewer or area chair**: ISMIR (2008, 2009, 2010, 2011, 2012, 2013, 2014), ICMC (2009, 2010), SMC (2010, 2011, 2012, 2013), ICASSP (2011, 2012, 2013, 2016), ACM-MM (2013, 2014), AES (2013), TRI (2015), UbiComp (2015), AAAI (2016, 2017, 2018), ICWSM (2017), NIPS-ML4Audio (2017), CCIA (2018), KDD (2019), IJCAI (2019), NeurIPS (2020, 2021), ICLR (2021, 2022), ICML (2021, 2022), INTERSPEECH (2021, 2022).<br>*--- Since 2018, I am not reviewing for conferences that have publication or article access paywalls.*
 
-**Conference organization**: MIRUM (2011, 2012), SMC 2010, IberSpeech 2018, DLBCN (2018, 2019, 2021).
+**Conference organization**: MIRUM (2011, 2012), SMC 2010, IberSpeech 2018, DLBCN (2018, 2019, 2021, 2022).
 
 **Research funding agencies**: CONICYT (2017).
 
@@ -956,9 +956,9 @@ Appearances in media: *\[Sorry for the broken links, I promise these all worked 
 
 ## Students/interns <a name="misc-students"></a>
 
-**R.O. Araz**. *Improving quality and speed of universal speech enhancement with diffusion models*. Student internship, Dolby Laboratories. Ongoing.
+**R.O. Araz**. *Improving quality and speed of universal speech enhancement with diffusion models*. Student internship, Dolby Laboratories. June 2022.
 
-**F. Yesiler**. *Data-driven musical version identification: accuracy, scalability, and bias perspectives*. PhD thesis, Universitat Pompeu Fabra. 2018-Ongoing. Co-directed with E. Gómez.
+**F. Yesiler**. *Data-driven musical version identification: accuracy, scalability, and bias perspectives*. PhD thesis, Universitat Pompeu Fabra. 2018-2022. Co-directed with E. Gómez.
 
 **G. Cambara**. *The effect of regressive and discriminative workers for learning self-supervised speech representations*. Student internship, Dolby Laboratories. Sep 2021. Co-directed with S. Pascual.
 
@@ -1038,4 +1038,4 @@ Appearances in media: *\[Sorry for the broken links, I promise these all worked 
 
 ---
 
-<div style="text-align: right"><i>[Last edit: June 2022]</i></div>
+<div style="text-align: right"><i>[Last edit: September 2022]</i></div>
