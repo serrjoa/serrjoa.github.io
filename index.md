@@ -28,6 +28,18 @@ I am the head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (sin
 
 ## Ongoing <a name="pub-ongoing"></a>
 
+> **Full-band general audio synthesis with score-based diffusion** <br>
+S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
+\[[arxiv](https://arxiv.org/abs/2210.14661)\] \[[demo](https://diffusionaudiosynthesis.github.io/)\]
+
+> **Quantitative evidence on overlooked aspects of enrollment speaker embeddings for target speaker separation** <br>
+X. Liu, X. Li, & J. Serrà <br>
+\[[arxiv](https://arxiv.org/abs/2210.12635)\]
+
+> **Adversarial permutation invariant training for universal sound separation** <br>
+E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
+\[[arxiv](https://arxiv.org/abs/2210.12108)\] \[[demo](http://jordipons.me/apps/adversarialPIT/)\]
+
 > **Universal speech enhancement with score-based diffusion** <br>
 J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
 \[[arxiv](https://arxiv.org/abs/2206.03065)\] \[[examples](https://serrjoa.github.io/projects/universe/)\]
