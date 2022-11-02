@@ -28,6 +28,7 @@ I am the head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (sin
 
 ## Ongoing <a name="pub-ongoing"></a>
 
+
 > **Full-band general audio synthesis with score-based diffusion** <br>
 S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
 \[[arxiv](https://arxiv.org/abs/2210.14661)\] \[[demo](https://diffusionaudiosynthesis.github.io/)\]
