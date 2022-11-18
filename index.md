@@ -28,7 +28,6 @@ I am the head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (sin
 
 ## Ongoing <a name="pub-ongoing"></a>
 
-
 > **Full-band general audio synthesis with score-based diffusion** <br>
 S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
 \[[arxiv](https://arxiv.org/abs/2210.14661)\] \[[demo](https://diffusionaudiosynthesis.github.io/)\]
@@ -54,6 +53,14 @@ J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 ## Recent (2021-current) <a name="pub-recent"></a>
 
 ### 2022
+
+>**Adversarial permutation invariant training for universal sound separation** <br>
+J. Pons, E. Postolache, S. Pascual, & J. Serrà <br>
+*Patent Application* No. ES-P202230890 (Oct 17).
+
+> **End-to-end general audio synthesis with generative networks** <br>
+S. Pascual, J. Serrà, G. Bhattacharya, C. Yeh, & J. Pons <br>
+*Patent Application* No. ES-P202230889 (Oct 17).
 
 > **On loss functions and evaluation metrics for music source separation** <br>
 E. Gusó, J. Pons, S. Pascual, & J. Serrà <br>
