@@ -56,11 +56,11 @@ J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 
 >**Adversarial permutation invariant training for universal sound separation** <br>
 J. Pons, E. Postolache, S. Pascual, & J. Serrà <br>
-*Patent Application* No. ES-P202230890 (Oct 17).
+*Patent Application* No. ES-P202230890 (Oct 17, 2022).
 
 > **End-to-end general audio synthesis with generative networks** <br>
 S. Pascual, J. Serrà, G. Bhattacharya, C. Yeh, & J. Pons <br>
-*Patent Application* No. ES-P202230889 (Oct 17).
+*Patent Application* No. ES-P202230889 (Oct 17, 2022).
 
 > **On loss functions and evaluation metrics for music source separation** <br>
 E. Gusó, J. Pons, S. Pascual, & J. Serrà <br>
