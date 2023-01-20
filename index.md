@@ -60,7 +60,7 @@ J. Pons, E. Postolache, S. Pascual, & J. Serrà <br>
 
 > **End-to-end general audio synthesis with generative networks** <br>
 S. Pascual, J. Serrà, G. Bhattacharya, C. Yeh, & J. Pons <br>
-*Patent Application* No. ES-P202230889 (Oct 17, 2022).
+*Patent Application* No. ES-P202230889 (Oct 17, 2022), US-63/433650 (Dec 19, 2022).
 
 > **On loss functions and evaluation metrics for music source separation** <br>
 E. Gusó, J. Pons, S. Pascual, & J. Serrà <br>
