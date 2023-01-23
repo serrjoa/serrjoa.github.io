@@ -40,10 +40,6 @@ X. Liu, X. Li, & J. Serrà <br>
 E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
 \[[arxiv](https://arxiv.org/abs/2210.12108)\] \[[demo](http://jordipons.me/apps/adversarialPIT/)\]
 
-> **Universal speech enhancement with score-based diffusion** <br>
-J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
-\[[arxiv](https://arxiv.org/abs/2206.03065)\] \[[examples](https://serrjoa.github.io/projects/universe/)\]
-
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 \[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
@@ -61,6 +57,11 @@ J. Pons, E. Postolache, S. Pascual, & J. Serrà <br>
 > **End-to-end general audio synthesis with generative networks** <br>
 S. Pascual, J. Serrà, G. Bhattacharya, C. Yeh, & J. Pons <br>
 *Patent Application* No. ES-P202230889 (Oct 17, 2022), US-63/433650 (Dec 19, 2022).
+
+> **Universal speech enhancement with score-based diffusion** <br>
+J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
+*Techical Report*. Jun 2022. <br>
+\[[arxiv](https://arxiv.org/abs/2206.03065)\] \[[examples](https://serrjoa.github.io/projects/universe/)\]
 
 > **On loss functions and evaluation metrics for music source separation** <br>
 E. Gusó, J. Pons, S. Pascual, & J. Serrà <br>
