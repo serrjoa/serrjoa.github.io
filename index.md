@@ -28,18 +28,6 @@ I am the head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (sin
 
 ## Ongoing <a name="pub-ongoing"></a>
 
-> **Full-band general audio synthesis with score-based diffusion** <br>
-S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
-\[[arxiv](https://arxiv.org/abs/2210.14661)\] \[[demo](https://diffusionaudiosynthesis.github.io/)\]
-
-> **Quantitative evidence on overlooked aspects of enrollment speaker embeddings for target speaker separation** <br>
-X. Liu, X. Li, & J. Serrà <br>
-\[[arxiv](https://arxiv.org/abs/2210.12635)\]
-
-> **Adversarial permutation invariant training for universal sound separation** <br>
-E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
-\[[arxiv](https://arxiv.org/abs/2210.12108)\] \[[demo](http://jordipons.me/apps/adversarialPIT/)\]
-
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 \[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
@@ -47,6 +35,23 @@ J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
+
+### 2023
+
+> **Full-band general audio synthesis with score-based diffusion** <br>
+S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+\[[arxiv](https://arxiv.org/abs/2210.14661)\] \[[demo](https://diffusionaudiosynthesis.github.io/)\]
+
+> **Quantitative evidence on overlooked aspects of enrollment speaker embeddings for target speaker separation** <br>
+X. Liu, X. Li, & J. Serrà <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+\[[arxiv](https://arxiv.org/abs/2210.12635)\]
+
+> **Adversarial permutation invariant training for universal sound separation** <br>
+E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+\[[arxiv](https://arxiv.org/abs/2210.12108)\] \[[demo](http://jordipons.me/apps/adversarialPIT/)\]
 
 ### 2022
 
