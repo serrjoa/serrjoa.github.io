@@ -336,11 +336,13 @@ F. Salas-Molina, F.J. Martín, J.A. Rodríguez-Aguilar, J. Serrà, & J.L. Arcos 
 
 > **Performance metrics using KPI combinations to better capture underperforming sectors in mobile networks** <br>
 I. Leontiadis, J. Serrà, & A. Finamore <br>
-*Patent* EP17382164.6, filed on 31/03/2017.
+*Patent* EP17382164.6, filed on 31/03/2017.<br>
+\[[gpatents](https://patents.google.com/patent/EP3383088A1/)\]
 
 > **Forecast of cellular network hot spots using sector performance indicators**<br>
 J. Serrà & I. Leontiadis <br>
-*Patent* EP17382163.8, filed on 31/03/2017.
+*Patent* EP17382163.8, filed on 31/03/2017.<br>
+\[[gpatents](https://patents.google.com/patent/EP3382938A1/)\]
 
 > **Effect of acoustic conditions on algorithms to detect Parkinson's disease from speech**<br>
 J.C. Vásquez-Correa, J. Serrà, J.R. Orozco-Arroyave, J.F. Vargas-Bonilla, & E. Nöth<br>
