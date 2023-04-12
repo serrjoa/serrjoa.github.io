@@ -143,9 +143,15 @@ J. Serrà, J. Pons, & S. Pascual <br>
 
 ### 2020
 
+> **A computer-implemented method for detecting anomalous behaviors of electronic devices and computer programs thereof** <br>
+M. Carós Roca, A. Lutu, J. Serrà, & D. Perino<br>
+*Patent Application* No. EP-20383109.4A (Dec 17, 2020).<br>
+\[[gpatents](https://patents.google.com/patent/EP4016325A1/)\]
+
 > **Real-time packet loss concealment using deep generative networks** <br>
 S. Pascual, J. Serrà, & J. Pons <br>
-*Patent Application* No. ES-P202031040 (Oct 15, 2020), US-63/195831 (Jun 2, 2021).
+*Patent Application* No. ES-P202031040 (Oct 15, 2020), US-63/195831 (Jun 2, 2021).<br>
+\[[gpatents](https://patents.google.com/patent/WO2022079164A2/)\]
 
 > **Less is more: faster and better music version identification with embedding distillation**<br>
 F. Yesiler, J. Serrà, & E. Gómez <br>
@@ -164,11 +170,13 @@ D. Perino, X. Yang, J. Serrà, A. Lutu, & I. Leontiadis <br>
 
 > **Method for learning an audio quality metric combining labeled and unlabeled data**<br>
 J. Serrà, J. Pons, & S. Pascual<br>
-*Patent Application* No. ES-P202030605 (Jun 22, 2020), US-63/072787 (Aug 31, 2020), EP2021/066786 (Jun 21, 2021).
+*Patent Application* No. ES-P202030605 (Jun 22, 2020), US-63/072787 (Aug 31, 2020), EP2021/066786 (Jun 21, 2021).<br>
+\[[gpatents](https://patents.google.com/patent/WO2021259842A1/)\]
 
 > **System for automated multitrack mixing in the waveform domain with a learned differentiable mixing console and controller network**<br>
-C.J. Steinmetz & J. Serrà.<br>
-*Patent Application* No. ES-P202030604 (Jun 22, 2020), US-63/072762 (Aug 31, 2020), EP2021/066206 (Jun 16, 2021).
+C.J. Steinmetz & J. Serrà<br>
+*Patent Application* No. ES-P202030604 (Jun 22, 2020), US-63/072762 (Aug 31, 2020), EP2021/066206 (Jun 16, 2021).<br>
+\[[gpatents](https://patents.google.com/patent/WO2021259725A1/)\]
 
 > **Accurate and scalable version identification using musically-motivated embeddings**<br>
 F. Yesiler, J. Serrà, & E. Gómez<br>
@@ -181,6 +189,11 @@ J. Serrà, D. Álvarez, V. Gómez, O. Slizovskaia, J.F. Núñez, & J. Luque<br>
 \[[arxiv](https://arxiv.org/abs/1909.11480)\] \[[openreview](https://openreview.net/forum?id=SyxIWpVYvr)\] \[[video](https://iclr.cc/virtual_2020/poster_SyxIWpVYvr.html)\]
 
 ### 2019
+
+> **Method for detecting permanent failures in mobile telecommunication networks** <br>
+D. Perino, J. Serrà, X. Yang<br>
+*Patent Application* No. EP-19383101.3A (Dec 12, 2019)<br>
+\[[gpatents](https://patents.google.com/patent/EP3836599A1/)\]
 
 > **Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion** <br>
 J. Serrà, S. Pascual, & C. Segura <br>
