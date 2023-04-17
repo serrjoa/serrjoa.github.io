@@ -55,13 +55,13 @@ E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
 
 ### 2022
 
->**Adversarial permutation invariant training for universal sound separation** <br>
+> **Adversarial permutation invariant training for universal sound separation** <br>
 J. Pons, E. Postolache, S. Pascual, & J. Serrà <br>
-*Patent Application* No. ES-P202230890 (Oct 17, 2022).
+*Patent* ES-P202230890 (Oct 17, 2022), US-63/440568 (Jan 23, 2023).
 
 > **End-to-end general audio synthesis with generative networks** <br>
 S. Pascual, J. Serrà, G. Bhattacharya, C. Yeh, & J. Pons <br>
-*Patent Application* No. ES-P202230889 (Oct 17, 2022), US-63/433650 (Dec 19, 2022).
+*Patent* ES-P202230889 (Oct 17, 2022), US-63/433650 (Dec 19, 2022).
 
 > **Universal speech enhancement with score-based diffusion** <br>
 J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
@@ -75,7 +75,7 @@ E. Gusó, J. Pons, S. Pascual, & J. Serrà <br>
 
 > **Self-supervised perceptual audio encoding by mixing discriminative and reconstructive tasks** <br>
 S. Pascual, J. Serrà, & J. Pons <br>
-*Patent Application* No. ES-202230230 (Mar 18, 2022).
+*Patent* ES-P202230230 (Mar 18, 2022), ES-P202230275 (Mar 25, 2022), US-63/407287 (Sep 16, 2022), US-63/424523 (Nov 11, 2022).
 
 > **Assessing algorithmic biases for musical version identification** <br>
 F. Yesiler, M. Miron, J. Serrà, & E. Gómez <br>
@@ -101,7 +101,7 @@ S. Pascual, J. Serrà, & J. Pons <br>
 
 > **Universal speech enhancement with generative neural networks** <br>
 J. Serrà, S. Pascual, & J. Pons <br>
-*Patent Application* No. ES-P202130914 (Sep 29, 2021), US-63/287207 (Dec 8, 2021), US-63/392575 (Jul 27, 2022).
+*Patent* ES-P202130914 (Sep 29, 2021), US-63/287207 (Dec 8, 2021), ES-P202230427 (May 18, 2022), US-63/392575 (Jul 27, 2022), PCT/EP22/77144 (Sep 29, 2022).
 
 > **Heaps' law and vocabulary richness in the history of classical music harmony** <br>
 M. Serra-Peralta, J. Serrà, & A. Corral <br>
@@ -110,7 +110,7 @@ M. Serra-Peralta, J. Serrà, & A. Corral <br>
 
 > **Upsampling layers for audio synthesis** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
-*Patent Application* No. ES-P202130417 (May 7, 2021), US-63/220279 (Jul 9, 2021).
+*Patent* ES-P202130417 (May 7, 2021), US-63/220279 (Jul 9, 2021).
 
 > **On tuning consistent annealed sampling for denoising score matching** <br>
 J. Serrà, S. Pascual, & J. Pons <br>
@@ -145,12 +145,12 @@ J. Serrà, J. Pons, & S. Pascual <br>
 
 > **A computer-implemented method for detecting anomalous behaviors of electronic devices and computer programs thereof** <br>
 M. Carós Roca, A. Lutu, J. Serrà, & D. Perino<br>
-*Patent Application* No. EP-20383109.4A (Dec 17, 2020).<br>
+*Patent* EP-20383109.4A (Dec 17, 2020).<br>
 \[[gpatents](https://patents.google.com/patent/EP4016325A1/)\]
 
 > **Real-time packet loss concealment using deep generative networks** <br>
 S. Pascual, J. Serrà, & J. Pons <br>
-*Patent Application* No. ES-P202031040 (Oct 15, 2020), US-63/195831 (Jun 2, 2021).<br>
+*Patent* ES-P202031040 (Oct 15, 2020), US-63/126,123 (Dec 16, 2020), ES-P202130258 (Mar 24,2021), US-63/195831 (Jun 2, 2021), PCT/EP21/78443 (Oct 14, 2021).<br>
 \[[gpatents](https://patents.google.com/patent/WO2022079164A2/)\]
 
 > **Less is more: faster and better music version identification with embedding distillation**<br>
@@ -170,12 +170,12 @@ D. Perino, X. Yang, J. Serrà, A. Lutu, & I. Leontiadis <br>
 
 > **Method for learning an audio quality metric combining labeled and unlabeled data**<br>
 J. Serrà, J. Pons, & S. Pascual<br>
-*Patent Application* No. ES-P202030605 (Jun 22, 2020), US-63/072787 (Aug 31, 2020), EP2021/066786 (Jun 21, 2021).<br>
+*Patent* ES-P202030605 (Jun 22, 2020), EP-21732931.7 (Jun 21,2021), JP-2022-579132 (Jun 21, 2021), US-18/012256 (Jun 21, 2021).<br>
 \[[gpatents](https://patents.google.com/patent/WO2021259842A1/)\]
 
 > **System for automated multitrack mixing in the waveform domain with a learned differentiable mixing console and controller network**<br>
 C.J. Steinmetz & J. Serrà<br>
-*Patent Application* No. ES-P202030604 (Jun 22, 2020), US-63/072762 (Aug 31, 2020), EP2021/066206 (Jun 16, 2021).<br>
+*Patent* ES-P202030604 (Jun 22, 2020), EP-21731213.1 (Jun 16, 2021), JP-2022-578976 (Jun 16, 2021), US-18/012245 (Jun 16, 2021).<br>
 \[[gpatents](https://patents.google.com/patent/WO2021259725A1/)\]
 
 > **Accurate and scalable version identification using musically-motivated embeddings**<br>
@@ -192,7 +192,7 @@ J. Serrà, D. Álvarez, V. Gómez, O. Slizovskaia, J.F. Núñez, & J. Luque<br>
 
 > **Method for detecting permanent failures in mobile telecommunication networks** <br>
 D. Perino, J. Serrà, X. Yang<br>
-*Patent Application* No. EP-19383101.3A (Dec 12, 2019)<br>
+*Patent* EP-19383101.3A (Dec 12, 2019)<br>
 \[[gpatents](https://patents.google.com/patent/EP3836599A1/)\]
 
 > **Blow: a single-scale hyperconditioned flow for non-parallel raw-audio voice conversion** <br>
@@ -1079,4 +1079,4 @@ Appearances in media: *\[Sorry for the broken links, I promise these all worked 
 
 ---
 
-<div style="text-align: right"><i>[Last edit: February 2023]</i></div>
+<div style="text-align: right"><i>[Last edit: April 2023]</i></div>
