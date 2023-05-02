@@ -38,6 +38,14 @@ J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 
 ### 2023
 
+> **Source separation and audio analytics for audio editing** <br>
+J. Pons, J. Serrà, S. Pascual, & G. Cengarle <br>
+*Patent* ES-P202330336 (Apr 28, 2023).
+
+> **Learning text-queried sound synthesis without using text-audio pairs** <br>
+H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, & J. Serrà <br>
+*Patent* ES-P202330333 (Apr 27, 2023).
+
 > **Full-band general audio synthesis with score-based diffusion** <br>
 S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
