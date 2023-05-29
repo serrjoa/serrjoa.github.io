@@ -28,15 +28,16 @@ I am head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (since 2
 
 ## Ongoing <a name="pub-ongoing"></a>
 
-> **Upsampling layers for music source separation** <br>
-J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
-\[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
-
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
 
 ### 2023
+
+> **Upsampling layers for music source separation** <br>
+J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
+Proc. of the European Signal Processing Conf. (EUSIPCO). In press. <br>
+\[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
 
 > **Source separation and audio analytics for audio editing** <br>
 J. Pons, J. Serrà, S. Pascual, & G. Cengarle <br>
