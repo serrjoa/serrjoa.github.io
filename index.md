@@ -36,7 +36,7 @@ I am head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (since 2
 
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
-Proc. of the European Signal Processing Conf. (EUSIPCO). In press. <br>
+*European Signal Processing Conf. (EUSIPCO)*, in press. <br>
 \[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
 
 > **Source separation and audio analytics for audio editing** <br>
