@@ -28,6 +28,10 @@ I am head of Applied AI at [Dolby Laboratories](https://www.dolby.com/) (since 2
 
 ## Ongoing <a name="pub-ongoing"></a>
 
+> **CLIPSonic: text-to-audio synthesis with unlabeled videos and pretrained language-vision models** <br>
+H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, J. Serrà, T. Berg-Kirkpatrick, & J. McAuley.
+\[[arxiv](https://arxiv.org/abs/2306.09635)\] \[[demo](https://salu133445.github.io/clipsonic/)\]
+
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
