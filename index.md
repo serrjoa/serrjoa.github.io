@@ -38,18 +38,14 @@ H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, J. Serrà, T. Berg-Kir
 
 ### 2023
 
+> **Mono-to-stereo through parametric stereo generation** <br>
+J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
+*Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. <br>
+
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 *European Signal Processing Conf. (EUSIPCO)*, in press. <br>
 \[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
-
-> **Source separation and audio analytics for audio editing** <br>
-J. Pons, J. Serrà, S. Pascual, & G. Cengarle <br>
-*Patent* ES-P202330336 (Apr 28, 2023).
-
-> **Learning text-queried sound synthesis without using text-audio pairs** <br>
-H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, & J. Serrà <br>
-*Patent* ES-P202330333 (Apr 27, 2023).
 
 > **Full-band general audio synthesis with score-based diffusion** <br>
 S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
@@ -65,6 +61,18 @@ X. Liu, X. Li, & J. Serrà <br>
 E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
 \[[arxiv](https://arxiv.org/abs/2210.12108)\] \[[demo](http://jordipons.me/apps/adversarialPIT/)\]
+
+> **Source separation and audio analytics for audio editing** <br>
+J. Pons, J. Serrà, S. Pascual, & G. Cengarle <br>
+*Patent* ES-P202330336 (Apr 28, 2023).
+
+> **Learning text-queried sound synthesis without using text-audio pairs** <br>
+H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, & J. Serrà <br>
+*Patent* ES-P202330333 (Apr 27, 2023).
+
+> **Machine learning methods for generating parametric stereo parameters from mono signals** <br>
+J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
+*Patent* ES-P202330275 (Apr 23, 2023), US-63/499,282 (May 1, 2023).
 
 ### 2022
 
