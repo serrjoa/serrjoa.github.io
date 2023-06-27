@@ -41,6 +41,7 @@ H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, J. Serrà, T. Berg-Kir
 > **Mono-to-stereo through parametric stereo generation** <br>
 J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. <br>
+\[[arxiv](https://arxiv.org/abs/2306.14647)\]
 
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
