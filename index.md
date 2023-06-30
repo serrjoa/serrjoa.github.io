@@ -87,7 +87,7 @@ S. Pascual, J. Serrà, G. Bhattacharya, C. Yeh, & J. Pons <br>
 
 > **Universal speech enhancement with score-based diffusion** <br>
 J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
-*Techical Report*. Jun 2022. <br>
+*Technical Report*. Jun 2022. <br>
 \[[arxiv](https://arxiv.org/abs/2206.03065)\] \[[examples](https://serrjoa.github.io/projects/universe/)\]
 
 > **On loss functions and evaluation metrics for music source separation** <br>
