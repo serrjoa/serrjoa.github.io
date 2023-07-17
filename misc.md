@@ -3,13 +3,11 @@ layout: page
 title: Joan Serrà's misc
 ---
 
-<a name="beginning"></a>
+<link rel="shortcut icon" type="image/png" href="media/jserra-circlecrop_small-1.png"><a name="beginning"></a>
 
-# Joan Serrà - Misc <a name="misc"></a>
+# Miscellaneous <a name="misc"></a>
 
-Go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
-
-Back to [main page](index.md).
+Go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students). Or back to the [main page](index.md).
 
 ## Experience/education <a name="misc-experience"></a>
 

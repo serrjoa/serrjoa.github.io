@@ -3,11 +3,11 @@ layout: page
 title: Joan Serrà's talks
 ---
 
-<a name="beginning"></a>
+<link rel="shortcut icon" type="image/png" href="media/jserra-circlecrop_small-1.png"><a name="beginning"></a>
 
-# Joan Serrà - Talks <a name="talks"></a>
+# Talks <a name="talks"></a>
 
-Back to [main page](index.md).
+Here is a list of the keynote talks I've made. Back to the [main page](index.md) [here](index.md).
 
 ## Talks
 

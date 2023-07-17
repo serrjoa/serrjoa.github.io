@@ -3,13 +3,11 @@ layout: page
 title: Joan Serrà's publication list
 ---
 
-<a name="beginning"></a>
+<link rel="shortcut icon" type="image/png" href="media/jserra-circlecrop_small-1.png"><a name="beginning"></a>
 
-# Joan Serrà - Publications and Patents<a name="publications"></a>
+# Publications and Patents<a name="publications"></a>
 
-Go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
-
-Back to [main page](index.md).
+Go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents. Or back to the [main page](index.md).
 
 ## Ongoing <a name="pub-ongoing"></a>
 
