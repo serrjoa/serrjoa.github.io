@@ -7,7 +7,7 @@ title: Joan Serrà's talks
 
 ![Joan Serrà](media/logo_white.png)
 
-# Talks <a name="talks"></a>
+# Talks Page <a name="talks"></a>
 
 Here is a list of the keynote talks I've made. Back to the [main page](index.md) [here](index.md).
 
