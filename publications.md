@@ -3,7 +3,9 @@ layout: page
 title: Joan Serrà's publication list
 ---
 
-<link rel="shortcut icon" type="image/png" href="media/jserra-circlecrop_small-1.png"><a name="beginning"></a>
+<a name="beginning"></a>
+
+![Joan Serrà](media/logo_white.png)
 
 # Publications and Patents<a name="publications"></a>
 
