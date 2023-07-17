@@ -7,7 +7,7 @@ title: Joan Serrà's personal web page
 
 ![Joan Serrà](media/logo_white.png)
 
-Welcome to my personal web page! [test](./publications.md)
+Welcome to my personal web page! [test](publications.md)
 
 You can also find me on [Twitter](https://twitter.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj).
 

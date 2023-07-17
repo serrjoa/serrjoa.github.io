@@ -4,15 +4,6 @@ title: ''
 locale: en_US
 logo: jserra-circlecrop_small.png
 
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - index.md
-  - publications.md
-
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Joan Serra
