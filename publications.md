@@ -5,7 +5,11 @@ title: Joan Serrà's publication list
 
 <a name="beginning"></a>
 
-# Publications <a name="publications"></a>
+# Joan Serrà - Publications and Patents<a name="publications"></a>
+
+Go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
+
+Back to [main page](index.md).
 
 ## Ongoing <a name="pub-ongoing"></a>
 
