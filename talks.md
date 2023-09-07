@@ -5,11 +5,12 @@ title: Joan Serrà's talks
 
 <a name="beginning"></a>
 
-![Joan Serrà](media/logo_white.png)
 
 # Talks Page <a name="talks"></a>
 
-Here is a list of the keynote talks I've made. Back to the [main page](index.md) [here](index.md).
+Here is a list of the keynote talks I've made. <br>
+
+Back to the [main page](index.md) [here](index.md).
 
 ## Talks
 

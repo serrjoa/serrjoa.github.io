@@ -5,11 +5,12 @@ title: Joan Serrà's misc
 
 <a name="beginning"></a>
 
-![Joan Serrà](media/logo_white.png)
 
-# Miscellaneous <a name="misc"></a>
+# Miscellaneous Page <a name="misc"></a>
 
-Go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students). Or back to the [main page](index.md).
+Go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students). <br>
+
+Or back to the [main page](index.md).
 
 ## Experience/education <a name="misc-experience"></a>
 
