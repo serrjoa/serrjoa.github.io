@@ -10,7 +10,7 @@ title: Joan Serrà's talks
 
 Here is a list of the keynote talks I've made. <br>
 
-Back to the [main page](index.md) [here](index.md).
+Back to the main page [here](index.md).
 
 ## Talks
 

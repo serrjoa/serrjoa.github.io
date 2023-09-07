@@ -10,7 +10,7 @@ title: Joan Serrà's misc
 
 Go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students). <br>
 
-Or back to the [main page](index.md).
+Or go back to the [main page](index.md).
 
 ## Experience/education <a name="misc-experience"></a>
 
