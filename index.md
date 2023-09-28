@@ -1032,6 +1032,8 @@ Appearances in media: *\[Sorry for the broken links, I promise these all worked 
 
 ## Students/interns <a name="misc-students"></a>
 
+**A. Gómez-Villa**. *Synthesis from and separation in CLAP latents*. Student internship, Dolby Laboratories. August 2023. Co-supervised with S. Pascual and J. Pons.
+
 **R.O. Araz**. *Improving quality and speed of universal speech enhancement with diffusion models*. Student internship, Dolby Laboratories. June 2022.
 
 **F. Yesiler**. *Data-driven musical version identification: accuracy, scalability, and bias perspectives*. PhD thesis, Universitat Pompeu Fabra. 2018-2022. Co-directed with E. Gómez.
