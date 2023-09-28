@@ -14,7 +14,7 @@ You can also find me on [Twitter](https://twitter.com/serrjoa), [Google Scholar]
 
 ---
 
-# Links to page content
+**Links to page content**
 
 * **[Bio](#shortbio)**: Short biography.
 * **[Publications](#publications)**: there you can go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
