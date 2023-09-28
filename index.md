@@ -12,17 +12,17 @@ Welcome to my personal web page!
 
 You can also find me on [Twitter](https://twitter.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj).
 
-
+---
 
 # Links to page content
 
-* **[Short bio](#shortbio)**
-* **[Publications](#publications)** - There you can go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
-* **[Talks](#talks)**
-* **[Misc](#misc)** - There you can go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
-* **[Contact](#contact)**
+* **[Bio](#shortbio)**: Short biography.
+* **[Publications](#publications)**: there you can go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
+* **[Talks](#talks)**: recent and past talks.
+* **[Misc](#misc)**: there you can go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
+* **[Contact](#contact)**: physical address, email, and map.
 
-
+---
 
 # Short bio <a name="shortbio"></a>
 
