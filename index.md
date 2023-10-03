@@ -34,7 +34,7 @@ I am the head of the Applied AI team at [Dolby Laboratories](https://www.dolby.c
 
 ## Ongoing <a name="pub-ongoing"></a>
 
-> **GASS: Generalizing Audio Source Separation with Large-scale Data** <br>
+> **GASS: generalizing audio source separation with large-scale data** <br>
 J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
 \[[arxiv](https://arxiv.org/abs/2310.00140)\] \[[demo](http://www.jordipons.me/apps/GASS/)\]
 
