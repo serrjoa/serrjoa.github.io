@@ -56,7 +56,7 @@ J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengar
 
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
-*European Signal Processing Conf. (EUSIPCO)*, in press. <br>
+*European Signal Processing Conf. (EUSIPCO)*, pp. 311-315. Sep 2023. <br>
 \[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
 
 > **Full-band general audio synthesis with score-based diffusion** <br>
