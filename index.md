@@ -47,7 +47,7 @@ J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
 > **CLIPSonic: text-to-audio synthesis with unlabeled videos and pretrained language-vision models** <br>
 H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, J. Serrà, T. Berg-Kirkpatrick, & J. McAuley. <br>
 *IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2306.09635)\] \[[demo](https://salu133445.github.io/clipsonic/)\]
+\[[arxiv](https://arxiv.org/abs/2306.09635)\] \[[doi](https://doi.org/10.1109/WASPAA58266.2023.10248160)\] \[[demo](https://salu133445.github.io/clipsonic/)\]
 
 > **Mono-to-stereo through parametric stereo generation** <br>
 J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
@@ -57,7 +57,7 @@ J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengar
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 *European Signal Processing Conf. (EUSIPCO)*, pp. 311-315. Sep 2023. <br>
-\[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
+\[[arxiv](https://arxiv.org/abs/2111.11773)\] \[[doi](https://doi.org/10.23919/EUSIPCO58844.2023.10289768)\] \[[demo](http://www.jordipons.me/apps/upsamplers/)\]
 
 > **Full-band general audio synthesis with score-based diffusion** <br>
 S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
