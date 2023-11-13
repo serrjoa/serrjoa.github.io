@@ -900,7 +900,7 @@ J. Serrà<br>
 
 **Conference reviewer or area chair**: ISMIR (2008, 2009, 2010, 2011, 2012, 2013, 2014), ICMC (2009, 2010), SMC (2010, 2011, 2012, 2013), ICASSP (2011, 2012, 2013, 2016), ACM-MM (2013, 2014), AES (2013), TRI (2015), UbiComp (2015), AAAI (2016, 2017, 2018), ICWSM (2017), NIPS-ML4Audio (2017), CCIA (2018), KDD (2019), IJCAI (2019), NeurIPS (2020, 2021), ICLR (2021, 2022), ICML (2021, 2022), INTERSPEECH (2021, 2022).<br>*--- Since 2018, I am not reviewing for conferences that have publication or article access paywalls.*
 
-**Conference organization**: MIRUM (2011, 2012), SMC 2010, IberSpeech 2018, DLBCN (2018, 2019, 2021, 2022).
+**Conference organization**: MIRUM (2011, 2012), SMC 2010, IberSpeech 2018, DLBCN (2018, 2019, 2021, 2022, 2023).
 
 **Research funding agencies**: CONICYT (2017).
 
@@ -992,7 +992,9 @@ Merits, awards and competitive grants:
 
 * **​R+D+I scholarship**. Universitat Pompeu Fabra, 2006-2010.
 
-Appearances in media: *\[Sorry for the broken links, I promise these all worked at some point\]*
+Appearances in media: 
+
+*\[Sorry for the broken links, I promise these all worked at some point\]*
 
 * An artificial intelligence that does not forget what it learns (2018) --- [BlogThinkBig](https://blogthinkbig.com/inteligencia-artificial-aprende-algoritmo), [TechWorld News](https://www.techworld.com/tech-innovation/what-is-catastrophic-forgetting-how-does-it-affect-ai-development-3687007/).
 
@@ -1121,4 +1123,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: September 2023]</i></div>
+<div style="text-align: right"><i>[Last edit: November 2023]</i></div>
