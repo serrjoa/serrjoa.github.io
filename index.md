@@ -44,15 +44,15 @@ J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
 
 ### 2023
 
-> **CLIPSonic: text-to-audio synthesis with unlabeled videos and pretrained language-vision models** <br>
-H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, J. Serrà, T. Berg-Kirkpatrick, & J. McAuley. <br>
-*IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2306.09635)\] \[[doi](https://doi.org/10.1109/WASPAA58266.2023.10248160)\] \[[demo](https://salu133445.github.io/clipsonic/)\]
-
 > **Mono-to-stereo through parametric stereo generation** <br>
 J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, pp. 304-310. Nov 2023. <br>
 \[[arxiv](https://arxiv.org/abs/2306.14647)\]
+
+> **CLIPSonic: text-to-audio synthesis with unlabeled videos and pretrained language-vision models** <br>
+H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, J. Serrà, T. Berg-Kirkpatrick, & J. McAuley. <br>
+*IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)*, in press. Oct 2023. <br>
+\[[arxiv](https://arxiv.org/abs/2306.09635)\] \[[doi](https://doi.org/10.1109/WASPAA58266.2023.10248160)\] \[[demo](https://salu133445.github.io/clipsonic/)\]
 
 > **Upsampling layers for music source separation** <br>
 J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
@@ -61,17 +61,17 @@ J. Pons, J. Serrà, S. Pascual, G. Cengarle, D. Arteaga, & D. Scaini <br>
 
 > **Full-band general audio synthesis with score-based diffusion** <br>
 S. Pascual, G. Bhattacharya, C. Yeh, J. Pons, & J. Serrà <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. Jun 2023. <br>
 \[[arxiv](https://arxiv.org/abs/2210.14661)\] \[[doi](https://doi.org/10.1109/ICASSP49357.2023.10096760)\] \[[demo](https://diffusionaudiosynthesis.github.io/)\]
 
 > **Quantitative evidence on overlooked aspects of enrollment speaker embeddings for target speaker separation** <br>
 X. Liu, X. Li, & J. Serrà <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. Jun 2023. <br>
 \[[arxiv](https://arxiv.org/abs/2210.12635)\] \[[doi](https://doi.org/10.1109/ICASSP49357.2023.10096478)\]
 
 > **Adversarial permutation invariant training for universal sound separation** <br>
 E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. Jun 2023. <br>
 \[[arxiv](https://arxiv.org/abs/2210.12108)\] \[[doi](https://doi.org/10.1109/ICASSP49357.2023.10096847)\] \[[demo](http://jordipons.me/apps/adversarialPIT/)\]
 
 > **Source separation and audio analytics for audio editing** <br>
