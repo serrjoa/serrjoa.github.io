@@ -832,11 +832,13 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
+**Universal speech enhancement with score-based diffusion**: [Apple MLR](https://machinelearning.apple.com/) Barcelona (13/7/2023).
+
 **Imagination in power! Deep generative models with a focus on speech and music**: [Casa de Cultura de Girona](https://casadecultura.org/cicles/675/ultimes-fronteres-la-ciencia-del-segle-xxi) (12/5/2022).
 
 **Universal, generative speech enhancement**: Keynote at the [Deep Learning Barcelona Symp. 2021](https://sites.google.com/view/deep-learning-barcelona-2021/) (23/12/2021) \[[youtube](https://youtu.be/pSGES0_XqaE), starts around 3:02:00\].
 
-**Deep generative audio at Dolby**: [Universitat de Girona](https://www.udg.edu/) - [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) (30/11/2021).
+**Deep generative audio at Dolby Laboratories**: [Universitat de Girona](https://www.udg.edu/) - [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) (30/11/2021), [LISTEN - Télécom Paris](https://listen.telecom-paris.fr/en/) (30/11/2023).
 
 **Understanding and visualizing speech quality**: Keynote at the [Web Audio Conf. 2021](https://webaudioconf2021.com/) (13/7/2021) \[[youtube](https://youtu.be/E4q5a82Ou1I)\]. With J. DeLancey.
 
@@ -876,7 +878,7 @@ J. Serrà<br>
 
 ## Experience/education <a name="misc-experience"></a>
 
-**[Dolby Laboratories](https://www.dolby.com/)** (2019-Present). Research scientist and now head of the [Applied AI team](https://dolby.io/audio-research/), Advanced Technology Group.
+**[Dolby Laboratories](https://www.dolby.com/)** (2019-Present). Research scientist and head of the Applied AI team, Advanced Technology Group.
 
 **[Telefónica R&D](http://www.tid.es/)** (2015-2019). Research scientist. Machine Learning, Data Mining and User Modeling Group.
 
