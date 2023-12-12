@@ -34,13 +34,18 @@ I am the head of the Applied AI team at [Dolby Laboratories](https://www.dolby.c
 
 ## Ongoing <a name="pub-ongoing"></a>
 
-> **GASS: generalizing audio source separation with large-scale data** <br>
-J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
-\[[arxiv](https://arxiv.org/abs/2310.00140)\] \[[demo](http://www.jordipons.me/apps/GASS/)\]
+(None)
 
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
+
+### 2024
+
+> **GASS: generalizing audio source separation with large-scale data** <br>
+J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. Apr 2024. <br>
+\[[arxiv](https://arxiv.org/abs/2310.00140)\] \[[demo](http://www.jordipons.me/apps/GASS/)\]
 
 ### 2023
 
