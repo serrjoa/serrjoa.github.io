@@ -81,7 +81,7 @@ E. Postolache, J. Pons, S. Pascual, & J. Serrà <br>
 
 > **Source separation and audio analytics for audio editing** <br>
 J. Pons, J. Serrà, S. Pascual, & G. Cengarle <br>
-*Patent* ES-P202330336 (Apr 28, 2023).
+*Patent* ES-P202330336 (Apr 28, 2023), US-63/512218 (Jul 6, 2023), EP-23183758.4 (Jul 6, 2023).
 
 > **Learning text-queried sound synthesis without using text-audio pairs** <br>
 H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, & J. Serrà <br>
@@ -89,17 +89,17 @@ H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, & J. Serrà <br>
 
 > **Machine learning methods for generating parametric stereo parameters from mono signals** <br>
 J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
-*Patent* ES-P202330275 (Apr 23, 2023), US-63/499,282 (May 1, 2023).
+*Patent* ES-P202330275 (Apr 23, 2023), US-63/499282 (May 1, 2023).
 
 ### 2022
 
 > **Adversarial permutation invariant training for universal sound separation** <br>
 J. Pons, E. Postolache, S. Pascual, & J. Serrà <br>
-*Patent* ES-P202230890 (Oct 17, 2022), US-63/440568 (Jan 23, 2023).
+*Patent* ES-P202230890 (Oct 17, 2022), US-63/440568 (Jan 23, 2023), EP-23/075668 (Sep 18, 2023).
 
 > **End-to-end general audio synthesis with generative networks** <br>
 S. Pascual, J. Serrà, G. Bhattacharya, C. Yeh, & J. Pons <br>
-*Patent* ES-P202230889 (Oct 17, 2022), US-63/433650 (Dec 19, 2022).
+*Patent* ES-P202230889 (Oct 17, 2022), US-63/433650 (Dec 19, 2022), US-23/34098 (Sep 29, 2023).
 
 > **Universal speech enhancement with score-based diffusion** <br>
 J. Serrà, S. Pascual, J. Pons, R.O. Araz, & D. Scaini <br>
