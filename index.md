@@ -52,7 +52,7 @@ J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
 > **Mono-to-stereo through parametric stereo generation** <br>
 J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, pp. 304-310. Nov 2023. <br>
-\[[arxiv](https://arxiv.org/abs/2306.14647)\]
+\[[arxiv](https://arxiv.org/abs/2306.14647)\] \[[doi](https://doi.org/10.5281/zenodo.10265285)\]
 
 > **CLIPSonic: text-to-audio synthesis with unlabeled videos and pretrained language-vision models** <br>
 H.-W. Dong, X. Liu, J. Pons, G. Bhattacharya, S. Pascual, J. Serrà, T. Berg-Kirkpatrick, & J. McAuley. <br>
