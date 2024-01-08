@@ -16,7 +16,7 @@ You can also find me on [Twitter](https://twitter.com/serrjoa), [Google Scholar]
 
 ### Links to page content
 
-* **[Bio](#shortbio)**: Short biography.
+* **[Bio](#shortbio)**: short biography.
 * **[Publications](#publications)**: there you can go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
 * **[Talks](#talks)**: recent and past talks.
 * **[Misc](#misc)**: there you can go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
@@ -837,13 +837,15 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
-**Universal speech enhancement with score-based diffusion**: [Apple MLR](https://machinelearning.apple.com/) Barcelona (13/7/2023).
+**Generative modeling at Dolby Laboratories**: [Monthly talk at LISTEN](https://listen.telecom-paris.fr/en/agenda/monthly-talk-joan-serra-bolby/), Télécom Paris (30/11/2023).
 
-**Imagination in power! Deep generative models with a focus on speech and music**: [Casa de Cultura de Girona](https://casadecultura.org/cicles/675/ultimes-fronteres-la-ciencia-del-segle-xxi) (12/5/2022).
+**Universal speech enhancement with score-based diffusion**: Invited talk at [Apple MLR](https://machinelearning.apple.com/) Barcelona (13/7/2023).
+
+**Imagination in power! Deep generative models with a focus on speech and music**: Casa de Cultura de Girona, [Últimes Fronteres](https://casadecultura.org/cicles/675/ultimes-fronteres-la-ciencia-del-segle-xxi) (12/5/2022).
 
 **Universal, generative speech enhancement**: Keynote at the [Deep Learning Barcelona Symp. 2021](https://sites.google.com/view/deep-learning-barcelona-2021/) (23/12/2021) \[[youtube](https://youtu.be/pSGES0_XqaE), starts around 3:02:00\].
 
-**Deep generative audio at Dolby Laboratories**: [Universitat de Girona](https://www.udg.edu/) - [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) (30/11/2021), [LISTEN - Télécom Paris](https://listen.telecom-paris.fr/en/) (30/11/2023).
+**Deep generative audio at Dolby Laboratories**: [Universitat de Girona](https://www.udg.edu/) - [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) (30/11/2021).
 
 **Understanding and visualizing speech quality**: Keynote at the [Web Audio Conf. 2021](https://webaudioconf2021.com/) (13/7/2021) \[[youtube](https://youtu.be/E4q5a82Ou1I)\]. With J. DeLancey.
 
@@ -891,7 +893,7 @@ J. Serrà<br>
 
 **[Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/)** (Nov 2011-Jan 2012). Invited postdoctoral researcher. Research group on Multimedia Information Retrieval and Music Processing.
 
-**[Universitat Pompeu Fabra](http://www.upf.edu/)** (2006-2011). MSc candidate, PhD candidate, postdoctoral researcher, and teaching assistant. Dept. of Information and Communication Technologies. Music Technology Group.
+**[Universitat Pompeu Fabra](http://www.upf.edu/)** (2006-2011). MSc candidate, PhD candidate, postdoctoral researcher, and teaching assistant. Dept. of Information and Communication Technologies, Music Technology Group.
 
 **[Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/)** (Feb-Jun 2010). Guest scientist. Research group on Nonlinear Dynamics and Time Series Analysis.
 
@@ -923,7 +925,7 @@ J. Serrà<br>
 
 Publicly-funded:
 
-* Accordion (2019-2021): **Adaptive edge/cloud compute and network continuum over a heterogeneous sparse edge infrastructure to support nextgen applications**. European Commission: RIA-2019-871793 (as PI, submitted proposal).
+* [Accordion](https://www.accordion-project.eu/) (2019-2021): **Adaptive edge/cloud compute and network continuum over a heterogeneous sparse edge infrastructure to support nextgen applications**. European Commission: RIA-2019-871793 (as PI, submitted the proposal).
 
 * [i-BiDaaS](https://www.ibidaas.eu/) (2018-2020): **Industrial-driven big data as a self-service solution**. European Commission: RIA-2017-780787.
 
@@ -953,11 +955,9 @@ Publicly-funded:
 
 Privately-funded:
 
-* ARIANA (2018-2019): **Artificial intelligence for automatic network actions**. Telefónica R&D innovation call.
+* Of course, several projects at Dolby Laboratories.
 
-* **[Smart Notifications](https://www.telefonica.com/web/press-office/-/telefonica-solves-the-attention-economy-challenge-with-smart-notifications)** (2016-2018). Telefónica R&D innovation call.
-
-* **Predictive Health** (2015-2016). Telefónica R&D moonshot project.
+* Of course, several projects at Telefónica R&D.
 
 * [AISLE](http://www.iiia.csic.es/en/project/aisle) (2012): **Artificial intelligence software for logistics in enterprises**. Conzentra Tecnologías de la Información S.L., IIIA-010108120004.
 
@@ -1049,7 +1049,7 @@ Appearances in media:
 
 **F. Yesiler**. *Data-driven musical version identification: accuracy, scalability, and bias perspectives*. PhD thesis, Universitat Pompeu Fabra. 2018-2022. Co-directed with E. Gómez.
 
-**G. Cambara**. *The effect of regressive and discriminative workers for learning self-supervised speech representations*. Student internship, Dolby Laboratories. Sep 2021. Co-directed with S. Pascual.
+**G. Cambara**. *The effect of regressive and discriminative workers for learning self-supervised speech representations*. Student internship, Dolby Laboratories. Sep 2021. Co-supervised with S. Pascual.
 
 **J. Bustos**. *Towards audio-conditioned generation of music album artwork*. MSc thesis, Universitat Pompeu Fabra. Sep 2020. Co-directed with P. Herrera.
 
@@ -1057,37 +1057,37 @@ Appearances in media:
 
 **S. Pascual**. *End-to-end speech synthesis using deep neural networks*. PhD thesis, Universitat Politècnica de Catalunya. 2017-2020. Co-directed with A. Bonafonte.
 
-**M. Serra-Peralta**. *Tunable, flow-based recommendations*. Student internship, Telefónica Research. Dec 2019. Co-directed with C. Segura.
+**M. Serra-Peralta**. *Tunable, flow-based recommendations*. Student internship, Telefónica Research. Dec 2019. Co-supervised with C. Segura.
 
 **D. Álvarez**. *Out-of-distribution likelihoods in deep generative models*. Student internship, Telefónica Research. Nov 2019.
 
-**M. Carós**. *Deep anomaly detection in machine-to-machine network logs*. Student internship, Telefónica Research. Jul 2019. Co-directed with A. Lutu & D. Perino.
+**M. Carós**. *Deep anomaly detection in machine-to-machine network logs*. Student internship, Telefónica Research. Jul 2019. Co-supervised with A. Lutu & D. Perino.
 
 **A. Gilbert**. *An investigation of in-sample forgetting in deep convolutional neural networks*. MSc thesis, Universitat Pompeu Fabra. Jul 2019. Co-directed with M. Farrús.
 
 **J.F. Núñez**. *Normalizing flows for novelty detection*. MSc thesis, Universitat Pompeu Fabra. Jul 2019. Co-directed with V. Gómez.
 
-**O. Slizovskaya**. *A prospective study of time series anomaly detection with normalizing flows*. Student internship, Telefónica Research. Dec 2018. Co-directed with I. Leontiadis.
+**O. Slizovskaya**. *A prospective study of time series anomaly detection with normalizing flows*. Student internship, Telefónica Research. Dec 2018. Co-supervised with I. Leontiadis.
 
-**M. del Tredici**. *Graph convolutional networks for recommender systems*. Student internship, Telefónica Research. Oct 2018. Co-directed with A. Karatzoglou, J. Luque, & C. Segura.
+**M. del Tredici**. *Graph convolutional networks for recommender systems*. Student internship, Telefónica Research. Oct 2018. Co-supervised with A. Karatzoglou, J. Luque, & C. Segura.
 
-**S. Raponi**. *User anonymity and reidentification in mobile weblog traces*. Student internship, Telefónica Research. Aug 2018. Co-directed with N. Kourtellis, I. Leontiadis, & D. Perino.
+**S. Raponi**. *User anonymity and reidentification in mobile weblog traces*. Student internship, Telefónica Research. Aug 2018. Co-supervised with N. Kourtellis, I. Leontiadis, & D. Perino.
 
 **J. Pons**. *Neural network architectures for few-instance audio classification*. Student internship, Telefónica Research. Jul 2018.
 
 **D. Surís & M. Miron**. *Overcoming catastrophic forgetting in neural networks*. Student internships, Telefónica Research. Dec 2017.
 
-**A. Pyrgelis**. *Assessing mobility trajectory uniqueness in telco networks*. Student internship, Telefónica Research. Nov 2017. Co-directed with I. Leontiadis, N. Kourtellis, & C. Soriente.
+**A. Pyrgelis**. *Assessing mobility trajectory uniqueness in telco networks*. Student internship, Telefónica Research. Nov 2017. Co-supervised with I. Leontiadis, N. Kourtellis, & C. Soriente.
 
 **S. Pascual**. *Deep spatiotemporal mobility prediction from cellular network events*. Student internship, Telefónica Research. Dec 2016.
 
-**M.A. Orakzai**. *Gait-based authentication in real life*. MSc thesis, Universitat Politècnica de Catalunya. Student internship, Telefónica Research. Jul 2016. Co-directed with A. Matic, L. Navarro, & C. Soriente.
+**M.A. Orakzai**. *Gait-based authentication in real life*. MSc thesis, Universitat Politècnica de Catalunya. Student internship, Telefónica Research. Jul 2016. Co-supervised with A. Matic, L. Navarro, & C. Soriente.
 
-**G. Pelino & Z. Holler**. *Predicting the success of telemarketing campaign calls*. MSc thesis, Barcelona Graduate School of Economics. Student internships, Telefónica Research. Jul 2016. Co-directed with A. Karatzoglou & A. Matic.
+**G. Pelino & Z. Holler**. *Predicting the success of telemarketing campaign calls*. MSc thesis, Barcelona Graduate School of Economics. Student internships, Telefónica Research. Jul 2016. Co-supervised with A. Karatzoglou & A. Matic.
 
 **J.C. Vásquez-Correa**. *Analyzing the robustness of speech-based Parkinson detection algorithms under noise and audio transformations*. Student internship, Telefónica Research. Feb 2016.
 
-**A. Bogomolov**. *Using call detail records for understanding crime data*. Student internship, Telefónica Research. Jan 2016. Co-directed with N. Oliver.
+**A. Bogomolov**. *Using call detail records for understanding crime data*. Student internship, Telefónica Research. Jan 2016. Co-supervised with N. Oliver.
 
 **F. Capó**. *Western classical composer identification using symbolic data*. MSc thesis, Universitat Pompeu Fabra. Sep 2015. Co-directed with P. Herrera.
 
@@ -1127,7 +1127,10 @@ Map:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2992.593627591191!2d2.1910254767741266!3d41.404630771297775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a3b922818f75%3A0x5e037baf80cb8aa5!2sAv.%20Diagonal%2C%20177%2C%2008018%20Barcelona!5e0!3m2!1sen!2ses!4v1689587121982!5m2!1sen!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+\[[Back to top](#beginning)\]
+
+
 
 ---
 
-<div style="text-align: right"><i>[Last edit: November 2023]</i></div>
+<div style="text-align: right"><i>[Last edit: December 2023]</i></div>
