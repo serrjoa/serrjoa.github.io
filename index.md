@@ -839,7 +839,7 @@ J. Serrà<br>
 
 **Generative modeling at Dolby Laboratories**: Monthly [talk at LISTEN](https://listen.telecom-paris.fr/en/agenda/monthly-talk-joan-serra-bolby/) - Télécom Paris (30/11/2023), invited talk at [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) at Universitat de Girona (30/11/2021). 
 
-**Universal speech enhancement with score-based diffusion**: Invited talk at [Apple MLR](https://machinelearning.apple.com/) Barcelona (13/7/2023).
+**Universal speech enhancement with score-based diffusion**: Invited talk at [Apple MLR](https://machinelearning.apple.com/) Barcelona (13/7/2023), invited talk at [Adobe Research - Audio](https://research.adobe.com/research/audio/) San Francisco (27/7/2022).
 
 **Imagination in power! Deep generative models with a focus on speech and music**: Invited talk at Casa de Cultura de Girona - [Últimes Fronteres](https://casadecultura.org/cicles/675/ultimes-fronteres-la-ciencia-del-segle-xxi) (12/5/2022).
 
@@ -849,7 +849,7 @@ J. Serrà<br>
 
 **Version identification in the 20s**: Tutorial at the Int. Soc. for Music Information Retrieval Conf. (11/10/2020) \[[ismir](https://program.ismir2020.net/tutorials.html)\] \[[slides](https://docs.google.com/presentation/d/17GDjTE9GV0cWxpYlsiXLvgPkVAg70Ho4RwPUyyL-j0U/edit#slide=id.g92d76a74bf_2_28)\]. With F. Yesiler & C. Tralie.
 
-**From correlation to imagination - GANs and deep generative models**: Keynote at the Conf. of the [Catalan Association for Artificial Intelligence](https://www.acia.cat/) - [CCIA 2019](https://agenda.uib.es/29216/speakers/22nd-international-conference-of-the-catalan-association-for-artificial-intelligence.html) (24/10/2019), invited talk at [Universitat de Lleida](http://www.udl.es/ca/) - Màster Gestió Administrativa (27/5/2019), invited talk at [Universitat de Vic](https://www.uvic.cat/) - [Jornades de Mecatrònica](https://mon.uvic.cat/udivulga/event/11ena-edicio-jornada-de-mecatronica/) (9/5/2019), invited seminar at [Enginyeria La Salle](https://www.salleurl.edu/en) - [Universitat Ramon Llull](https://www.url.edu/en) (26/3/2019), internal Telefónica Barcelona Talk (11/10/2018), Telefónica Talks - Madrid (27/9/2018).
+**From correlation to imagination - GANs and deep generative models**: Keynote at the Conf. of the [Catalan Association for Artificial Intelligence](https://www.acia.cat/) - [CCIA 2019](https://agenda.uib.es/29216/speakers/22nd-international-conference-of-the-catalan-association-for-artificial-intelligence.html) (24/10/2019), invited talk at [Universitat de Lleida](http://www.udl.es/ca/) - Màster Gestió Administrativa (27/5/2019), invited talk at [Universitat de Vic](https://www.uvic.cat/) - [Jornades de Mecatrònica](https://mon.uvic.cat/udivulga/event/11ena-edicio-jornada-de-mecatronica/) (9/5/2019), invited seminar at [Enginyeria La Salle](https://www.salleurl.edu/en) - [Universitat Ramon Llull](https://www.url.edu/en) (26/3/2019), selected talk at Telefónica Talks - Madrid (27/9/2018).
 
 **Deep learning at Telefónica Research**: Invited lecture at [Barcelona Technology School](https://barcelonatechnologyschool.com/) (26/6/2018), invited talk at [Dolby Laboratories - Barcelona](https://www.dolby.com/us/en/about/contact-us/dolby-offices-worldwide.html) (14/3/2018).
 
