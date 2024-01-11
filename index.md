@@ -10,14 +10,14 @@ title: Joan Serrà's personal web page
 
 Welcome to my personal web page!
 
-You can also find me on [Twitter](https://twitter.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj).
+You can also find me on [Twitter/X](https://twitter.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj).
 
 ---
 
 ### Links to page content
 
 * **[Bio](#shortbio)**: short biography.
-* **[Publications](#publications)**: there you can go to [ongoing](#pub-ongoing), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
+* **[Publications](#publications)**: there you can go to [preprint](#pub-preprints), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
 * **[Talks](#talks)**: recent and past talks.
 * **[Misc](#misc)**: there you can go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
 * **[Contact](#contact)**: physical address, email, and map.
@@ -32,7 +32,7 @@ I am the head of the Applied AI team at [Dolby Laboratories](https://www.dolby.c
 
 # Publications and Patents <a name="publications"></a>
 
-## Ongoing <a name="pub-ongoing"></a>
+## Preprints <a name="pub-preprints"></a>
 
 (None)
 
