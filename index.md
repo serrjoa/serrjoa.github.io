@@ -51,7 +51,7 @@ J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
 
 > **System for audio-visual content trimming: highlight generation, moment retrieval and summarization for user generated content** <br>
 G. Jagatap, G. KV, D. Chandran, J. Serrà, & A. Fanelli <br>
-*Patent* ES-P202331088 (Dec 27, 2023). <br>
+*Patent* ES-P202331088 (Dec 27, 2023), US-63/561206 (Mar 4, 2024). <br>
 
 > **Mono-to-stereo through parametric stereo generation** <br>
 J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
