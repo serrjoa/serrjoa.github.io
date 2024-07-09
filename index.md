@@ -34,7 +34,9 @@ I am a senior research scientist with [Sony AI](https://ai.sony/) (since 2024). 
 
 ## Preprints <a name="pub-preprints"></a>
 
-(None)
+> **Sequential contrastive audio-visual learning** <br>
+I. Tsiamas, S. Pascual, C. Yeh, & J. Serrà. <br>
+\[[arxiv](https://arxiv.org/abs/2407.05782)\]
 
 \[[Back to top](#beginning)\]
 
