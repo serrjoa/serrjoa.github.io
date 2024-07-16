@@ -44,6 +44,11 @@ I. Tsiamas, S. Pascual, C. Yeh, & J. Serrà. <br>
 
 ### 2024
 
+> **Masked generative video-to-audio transformers with enhanced synchronicity** <br>
+S. Pascual, C. Yeh, I. Tsiamas, & J. Serrà. <br>
+*European Conf. on Computer Vision (ECCV)*, in press. Sep 2024. <br>
+\[[arxiv](https://arxiv.org/abs/2407.10387)\] \[[demo](https://maskvat.github.io/)\]
+
 > **GASS: generalizing audio source separation with large-scale data** <br>
 J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. Apr 2024. <br>
