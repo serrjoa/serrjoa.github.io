@@ -34,6 +34,10 @@ I am a senior research scientist with [Sony AI](https://ai.sony/) (since 2024). 
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
+X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
+\[[arxiv](https://arxiv.org/abs/2409.09357)\] \[[demo](https://masksr.github.io/MaskSR2/)\]
+
 > **Sequential contrastive audio-visual learning** <br>
 I. Tsiamas, S. Pascual, C. Yeh, & J. Serrà. <br>
 \[[arxiv](https://arxiv.org/abs/2407.05782)\]
