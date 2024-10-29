@@ -1134,8 +1134,8 @@ Physical address:
 
 > Joan Serrà <br>
 > Sony AI - Barcelona <br>
-> OneCoWork Plaça Catalunya <br>
-> Carrer d'Estruch 9, planta 4 <br>
+> OneCoWork Portal de l'Àngel <br>
+> Av. del Portal de l'Àngel 40, planta 7 <br>
 > 08002 Barcelona <br>
 > firstname (dot) serra (at) sony (dot) com <br>
 
