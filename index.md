@@ -1141,7 +1141,7 @@ Physical address:
 
 Map:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.4106974757037!2d2.1699303767734137!3d41.38688647129999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a2f0dd236459%3A0xf9c0851b45f2027d!2sOneCoWork%20Pla%C3%A7a%20Catalunya%20%7C%20Barcelona%20Coworking!5e0!3m2!1sen!2ses!4v1708100140653!5m2!1sen!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.747749156461!2d2.169505776773431!3d41.38675447130016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a38837c91765%3A0xe5d93fd8fc5c1ea8!2sOneCoWork%20Portal%20de%20l%C2%B4%C3%81ngel%20%7C%20Coworking%20Barcelona!5e1!3m2!1sen!2sde!4v1730208166211!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 \[[Back to top](#beginning)\]
 
