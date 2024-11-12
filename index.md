@@ -48,6 +48,11 @@ I. Tsiamas, S. Pascual, C. Yeh, & J. Serrà. <br>
 
 ### 2024
 
+> **Discogs-VINet-MIREX** <br>
+R.O. Araz, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
+*Music Information Retrieval Evaluation eXchange (MIREX)*. Nov 2024. <br>
+\[[mirex](https://www.music-ir.org/mirex/wiki/2024:Cover_Song_Identification_Results)\]
+
 > **Masked generative video-to-audio transformers with enhanced synchronicity** <br>
 S. Pascual, C. Yeh, I. Tsiamas, & J. Serrà. <br>
 *European Conf. on Computer Vision (ECCV)*, in press. Sep 2024. <br>
@@ -55,7 +60,7 @@ S. Pascual, C. Yeh, I. Tsiamas, & J. Serrà. <br>
 
 > **GASS: generalizing audio source separation with large-scale data** <br>
 J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. Apr 2024. <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 546-550. Apr 2024. <br>
 \[[arxiv](https://arxiv.org/abs/2310.00140)\] \[[demo](http://www.jordipons.me/apps/GASS/)\]
 
 ### 2023
