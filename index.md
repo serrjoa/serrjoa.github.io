@@ -10,7 +10,7 @@ title: Joan Serrà's personal web page
 
 Welcome to my personal web page!
 
-You can also find me on [Twitter/X](https://twitter.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj).
+You can also find me on [Bluesky](https://bsky.app/profile/serrjoa.bsky.social), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), [X](https://x.com/serrjoa), or [GitHub](https://github.com/joansj).
 
 ---
 
@@ -26,7 +26,7 @@ You can also find me on [Twitter/X](https://twitter.com/serrjoa), [Google Schola
 
 # Short bio <a name="shortbio"></a>
 
-I am a senior research scientist with [Sony AI](https://ai.sony/) (since 2024). I do research on machine learning, with a focus on audio and multimedia analysis, synthesis, and retrieval. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did an MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and [Dolby Laboratories](https://www.dolby.com/) as an AI researcher and research manager (2019-2024). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly cited and/or in top tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge) and give talks and lectures on subjects of my interest (lately basically related to deep learning and generative modeling).
+I am a senior research scientist with [Sony AI](https://ai.sony/) (since 2024). I do research on machine learning, with a focus on audio and multimedia analysis, synthesis, and retrieval. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did an MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and [Dolby Laboratories](https://www.dolby.com/) as an AI researcher and research manager (2019-2024). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly cited and/or in top tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge) and give talks and lectures on subjects of my interest (lately basically related to representation learning and generative modeling).
 
 
 
@@ -57,6 +57,10 @@ R.O. Araz, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 S. Pascual, C. Yeh, I. Tsiamas, & J. Serrà. <br>
 *European Conf. on Computer Vision (ECCV)*, in press. Sep 2024. <br>
 \[[arxiv](https://arxiv.org/abs/2407.10387)\] \[[demo](https://maskvat.github.io/)\]
+
+> **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
+X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
+*Patent* ES-P202430693 (Sep 2, 2024), WO-2024-116230 (Sep 2, 2024). <br>
 
 > **GASS: generalizing audio source separation with large-scale data** <br>
 J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
@@ -1154,4 +1158,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: February 2024]</i></div>
+<div style="text-align: right"><i>[Last edit: December 2024]</i></div>
