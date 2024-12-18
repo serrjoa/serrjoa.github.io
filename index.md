@@ -937,9 +937,9 @@ J. Serrà<br>
 
 **Research funding agencies**: CONICYT (2017).
 
-**Member of the ELLIS Society** (2022).
+**​Others**: Reviewer for MIT Technology Review (2018), panelist at AAAI Doctoral Consortium (2012), advisor at bcn.ai (2018-2020), mentor at DLBCN (2022, 2024).
 
-**​Others**: Panelist at AAAI Doctoral Consortium (2012), reviewer for MIT Technology Review - Innovators under 35 (2018), advisor at bcn.ai (2018-2020).
+**Member of the [ELLIS](https://ellis.eu) Society** (2022).
 
 \[[Back to top](#beginning)\]
 
@@ -1068,6 +1068,12 @@ Appearances in media:
 \[[Back to top](#beginning)\]
 
 ## Students/interns <a name="misc-students"></a>
+
+**R.O. Araz**. *Building factual super-similarity for music segments*. PhD thesis, Universitat Pompeu Fabra. 2022-Ongoing. Co-directed with D. Bogdanov and X. Serra.
+
+**Y. Ozer**. *A systematic framework for comprehensive analysis of the robustness of audio watermarking approaches*. Student internship, Sony AI. December 2024. Co-supervised with W. Choi, M. Singh, & W. Liao.
+
+**L.A. Lazendörfer**. *Investigating training data attribution in text-to-music generative models*. Student internship, Sony AI. August 2024. Co-supervised with M. Singh.
 
 **A. Gómez-Villa**. *Synthesis from and separation in CLAP latents*. Student internship, Dolby Laboratories. August 2023. Co-supervised with S. Pascual and J. Pons.
 
