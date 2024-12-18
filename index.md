@@ -10,7 +10,7 @@ title: Joan Serrà's personal web page
 
 Welcome to my personal web page!
 
-You can also find me on [Bluesky](https://bsky.app/profile/serrjoa.bsky.social), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), [X](https://x.com/serrjoa), or [GitHub](https://github.com/joansj).
+You can also find me on (in order of usage) [Bluesky](https://bsky.app/profile/serrjoa.bsky.social), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), [X](https://x.com/serrjoa), or [GitHub](https://github.com/joansj).
 
 ---
 
@@ -1027,9 +1027,11 @@ Appearances in media:
 
 *\[Sorry for the broken links, I promise these all worked at some point\]*
 
+* Quins han estat els articles més citats del CCIA? "Towards a universal neural network encoder for time series" --- [ACIA Nodes](https://acia.cat/butlletins/nodes_60.pdf).
+
 * An artificial intelligence that does not forget what it learns (2018) --- [BlogThinkBig](https://blogthinkbig.com/inteligencia-artificial-aprende-algoritmo), [TechWorld News](https://www.techworld.com/tech-innovation/what-is-catastrophic-forgetting-how-does-it-affect-ai-development-3687007/).
 
-* Just four tweets can reveal the identity of an anonymous troll (2018) ---[New Scientist](https://www.newscientist.com/article/2172243-just-four-tweets-can-reveal-the-identity-of-an-anonymous-troll/), [Comm. of the ACM.](https://cacm.acm.org/news/229013-4-tweets-can-reveal-the-identity-of-an-anonymous-troll/fulltext)
+* Just four tweets can reveal the identity of an anonymous troll (2018) --- [New Scientist](https://www.newscientist.com/article/2172243-just-four-tweets-can-reveal-the-identity-of-an-anonymous-troll/), [Comm. of the ACM.](https://cacm.acm.org/news/229013-4-tweets-can-reveal-the-identity-of-an-anonymous-troll/fulltext)
 
 * ​¡Sistemas de recomendación en forma! (2018) --- [BlogThinkBig](https://blogthinkbig.com/sistemas-de-recomendacion-en-forma).
 
