@@ -861,6 +861,8 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
+**AI debate**: Debate participation at the [2024 sAIling Catalonia](https://www.cvc.uab.es/blog/2024/09/27/sailing-catalonia/) event (19/9/2024).
+
 **Generative modeling at Dolby Laboratories**: Monthly [talk at LISTEN](https://listen.telecom-paris.fr/en/agenda/monthly-talk-joan-serra-bolby/) - Télécom Paris (30/11/2023), invited talk at [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) at Universitat de Girona (30/11/2021). 
 
 **Universal speech enhancement with score-based diffusion**: Invited talk at [Apple MLR](https://machinelearning.apple.com/) Barcelona (13/7/2023), invited talk at [Adobe Research - Audio](https://research.adobe.com/research/audio/) San Francisco (27/7/2022).
