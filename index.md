@@ -26,7 +26,7 @@ You can also find me on (in order of usage) [Bluesky](https://bsky.app/profile/s
 
 # Short bio <a name="shortbio"></a>
 
-I am a senior research scientist with [Sony AI](https://ai.sony/) (since 2024). I do research on machine learning, with a focus on audio and multimedia analysis, synthesis, and retrieval. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did an MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and [Dolby Laboratories](https://www.dolby.com/) as an AI researcher and research manager (2019-2024). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly cited and/or in top tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge) and give talks and lectures on subjects of my interest (lately basically related to representation learning and generative modeling).
+I am a staff research scientist and research manager with [Sony AI](https://ai.sony/) (since 2024). I do research on machine learning, with a focus on audio and multimedia analysis, synthesis, and retrieval. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did an MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and [Dolby Laboratories](https://www.dolby.com/) as an AI researcher and research manager (2019-2024). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly cited and/or in top tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge) and give talks and lectures on subjects of my interest (lately basically related to representation learning and generative modeling).
 
 
 
@@ -913,7 +913,7 @@ J. Serrà<br>
 
 ## Experience/education <a name="misc-experience"></a>
 
-**[Sony AI](https://ai.sony/)** (2024-Present). Senior research scientist, Audio and Music Team.
+**[Sony AI](https://ai.sony/)** (2024-Present). Staff research scientist and research manager, Audio and Music Team.
 
 **[Dolby Laboratories](https://www.dolby.com/)** (2019-2024). Research scientist, senior research scientist, and research manager of the Applied AI team, Advanced Technology Group.
 
@@ -1174,4 +1174,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: December 2024]</i></div>
+<div style="text-align: right"><i>[Last edit: January 2025]</i></div>
