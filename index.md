@@ -704,7 +704,7 @@ J. Serrà, C.A. De Los Santos, & R.G. Andrzejak<br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 169-172. May 2011.<br>
 \[[mtg](http://mtg.upf.edu/node/1861)\] \[[doi](http://dx.doi.org/10.1109/ICASSP.2011.5946367)\]
 
-> **Identification of versions of the same musical composition by processing audio descriptions**
+> **Identification of versions of the same musical composition by processing audio descriptions**<br>
 J. Serrà<br>
 *PhD Thesis*. Universitat Pompeu Fabra, Barcelona, Spain. Mar 2011.<br>
 \[[mtg](http://mtg.upf.edu/node/1951)\] \[[tdx](http://tdx.cat/handle/10803/22674)\]
