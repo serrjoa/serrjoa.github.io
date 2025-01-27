@@ -10,7 +10,7 @@ title: Joan Serrà's personal web page
 
 Welcome to my personal web page!
 
-You can also find me on (in order of usage) [Bluesky](https://bsky.app/profile/serrjoa.bsky.social), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), [X](https://x.com/serrjoa), or [GitHub](https://github.com/joansj).
+You can also find me on (in order of usage) [X](https://x.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), [Bluesky](https://bsky.app/profile/serrjoa.bsky.social), or [GitHub](https://github.com/joansj).
 
 ---
 
@@ -1078,6 +1078,8 @@ Appearances in media:
 ## Students/interns <a name="misc-students"></a>
 
 **R.O. Araz**. *Building factual super-similarity for music segments*. PhD thesis, Universitat Pompeu Fabra. 2022-Ongoing. Co-directed with D. Bogdanov and X. Serra.
+
+**E. Mancini**. *Lyrics-based music matching*. Student collaboration, Sony AI. June 2025.
 
 **Y. Ozer**. *A systematic framework for comprehensive analysis of the robustness of audio watermarking approaches*. Student internship, Sony AI. December 2024. Co-supervised with W. Choi, M. Singh, & W. Liao.
 
