@@ -61,8 +61,8 @@ R.O. Araz, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 
 > **Masked generative video-to-audio transformers with enhanced synchronicity** <br>
 S. Pascual, C. Yeh, I. Tsiamas, & J. Serrà. <br>
-*European Conf. on Computer Vision (ECCV)*, in press. Sep 2024. <br>
-\[[arxiv](https://arxiv.org/abs/2407.10387)\] \[[demo](https://maskvat.github.io/)\]
+*European Conf. on Computer Vision (ECCV)*, pp. 247-264. Sep 2024. <br>
+\[[arxiv](https://arxiv.org/abs/2407.10387)\] \[[doi](https://doi.org/10.1007/978-3-031-73021-4_15)\] \[[demo](https://maskvat.github.io/)\]
 
 > **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
 X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
