@@ -34,7 +34,10 @@ I am a staff research scientist and research manager with [Sony AI](https://ai.s
 
 ## Preprints <a name="pub-preprints"></a>
 
-(None)
+> **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
+J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
+*ArXiv*, 2502.16936. <br>
+\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[code\] \[checkpoints\]
 
 \[[Back to top](#beginning)\]
 
