@@ -37,7 +37,7 @@ I am a staff research scientist and research manager with [Sony AI](https://ai.s
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
 *ArXiv*, 2502.16936. <br>
-\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[code\] \[checkpoints\]
+\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[[code](https://github.com/sony/clews)\] \[[checkpoints](https://zenodo.org/records/15045900)\]
 
 \[[Back to top](#beginning)\]
 
@@ -1179,4 +1179,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: February 2025]</i></div>
+<div style="text-align: right"><i>[Last edit: April 2025]</i></div>
