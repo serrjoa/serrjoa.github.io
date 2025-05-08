@@ -34,16 +34,18 @@ I am a staff research scientist and research manager with [Sony AI](https://ai.s
 
 ## Preprints <a name="pub-preprints"></a>
 
-> **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
-J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
-*ArXiv*, 2502.16936. <br>
-\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[[code](https://github.com/sony/clews)\] \[[checkpoints](https://zenodo.org/records/15045900)\]
+(None)
 
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
 
 ### 2025
+
+> **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
+J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
+*Int. Conf. on Machine Learning (ICML)*, in press. <br>
+\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[[code](https://github.com/sony/clews)\] \[[checkpoints](https://zenodo.org/records/15045900)\]
 
 > **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
 X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
@@ -870,9 +872,9 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
-**Musical version matching with segment reductions and contrastive learning**: Invited talk at the LLM Mini-Workshop of [Universitat de Lleida](https://www.eps.udl.cat/ca/) (26/3/2025).
+**AI debate/panelist**: Panelist at the UPF workshop on [Generative Music in the Context of Trustworthy AI](https://www.upf.edu/web/etic/ai-music) (30/5/2025), debate participation at the [2024 sAIling Catalonia](https://www.cvc.uab.es/blog/2024/09/27/sailing-catalonia/) event (19/9/2024).
 
-**AI debate**: Debate participation at the [2024 sAIling Catalonia](https://www.cvc.uab.es/blog/2024/09/27/sailing-catalonia/) event (19/9/2024).
+**Musical version matching with segment reductions and contrastive learning**: Invited talk at the LLM Mini-Workshop of [Universitat de Lleida](https://www.eps.udl.cat/ca/) (26/3/2025).
 
 **Generative modeling at Dolby Laboratories**: Monthly [talk at LISTEN](https://listen.telecom-paris.fr/en/agenda/monthly-talk-joan-serra-bolby/) - Télécom Paris (30/11/2023), invited talk at [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) at Universitat de Girona (30/11/2021). 
 
@@ -1181,4 +1183,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: April 2025]</i></div>
+<div style="text-align: right"><i>[Last edit: May 2025]</i></div>
