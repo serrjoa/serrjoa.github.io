@@ -42,6 +42,10 @@ I am a staff research scientist and research manager with [Sony AI](https://ai.s
 
 ### 2025
 
+> **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
+Y. Ozer, W. Choi, J. Serrà, M. Singh, W. Liao, & Y. Mitsufuji. <br>
+*Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, in press. <br>
+
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
 *Int. Conf. on Machine Learning (ICML)*, in press. <br>
