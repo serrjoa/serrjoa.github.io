@@ -8,7 +8,7 @@ title: Joan Serrà's personal web page
 
 ![Joan Serrà](media/logo_white.png)
 
-Welcome to my personal web page!
+Welcome to my personal web page.
 
 You can also find me on (in order of usage) [X](https://x.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), [Bluesky](https://bsky.app/profile/serrjoa.bsky.social), or [GitHub](https://github.com/joansj).
 
@@ -54,12 +54,12 @@ J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
 > **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
 X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2409.09357)\] \[[demo](https://masksr.github.io/MaskSR2/)\]
+\[[arxiv](https://arxiv.org/abs/2409.09357)\] \[[doi](https://doi.org/10.1109/ICASSP49660.2025.10890760)\] \[[demo](https://masksr.github.io/MaskSR2/)\]
 
 > **Sequential contrastive audio-visual learning** <br>
 I. Tsiamas, S. Pascual, C. Yeh, & J. Serrà. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2407.05782)\]
+\[[arxiv](https://arxiv.org/abs/2407.05782)\] \[[doi](https://doi.org/10.1109/ICASSP49660.2025.10888656)\]
 
 ### 2024
 
