@@ -42,6 +42,16 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ### 2025
 
+> **Large-scale training data attribution for music generative models via unlearning** <br>
+W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
+*AI Heard That! ICML 2025 Workshop on Machine Learning for Audio* <br>
+\[arxiv\]
+
+> **Scalable and degradation-robust neural music fingerprinting** <br>
+R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
+*Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. <br>
+\[arxiv\] \[code\]
+
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 *Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, in press. <br>
