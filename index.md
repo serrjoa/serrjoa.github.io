@@ -42,11 +42,6 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ### 2025
 
-> **Large-scale training data attribution for music generative models via unlearning** <br>
-W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
-*AI Heard That! ICML 2025 Workshop on Machine Learning for Audio* <br>
-\[arxiv\]
-
 > **Scalable and degradation-robust neural music fingerprinting** <br>
 R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. <br>
@@ -57,6 +52,11 @@ Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 *Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, in press. <br>
 \[[arxiv](https://arxiv.org/abs/2505.19663)\] \[code\]
 
+> **Large-scale training data attribution for music generative models via unlearning** <br>
+W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
+*AI Heard That! ICML 2025 Workshop on Machine Learning for Audio* <br>
+\[arxiv\]
+
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
 *Int. Conf. on Machine Learning (ICML)*, in press. <br>
@@ -64,12 +64,12 @@ J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
 
 > **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
 X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*. Apr 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2409.09357)\] \[[doi](https://doi.org/10.1109/ICASSP49660.2025.10890760)\] \[[demo](https://masksr.github.io/MaskSR2/)\]
 
 > **Sequential contrastive audio-visual learning** <br>
 I. Tsiamas, S. Pascual, C. Yeh, & J. Serrà. <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. <br>
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*. Apr 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2407.05782)\] \[[doi](https://doi.org/10.1109/ICASSP49660.2025.10888656)\]
 
 ### 2024
