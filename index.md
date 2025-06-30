@@ -55,7 +55,7 @@ Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
 *AI Heard That! ICML 2025 Workshop on Machine Learning for Audio* <br>
-\[arxiv\]
+\[[arxiv](https://arxiv.org/abs/2506.18312)\]
 
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
