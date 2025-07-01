@@ -42,15 +42,15 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ### 2025
 
-> **Scalable and degradation-robust neural music fingerprinting** <br>
+> **Enhancing neural audio fingerprint robustness to audio degradation for music identification** <br>
 R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. <br>
-\[arxiv\] \[code\]
+\[[arxiv](https://arxiv.org/abs/2506.22661)\] \[[code](https://github.com/raraz15/neural-music-fp)\] \[[checkpoints](https://doi.org/10.5281/zenodo.15719945)\]
 
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 *Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[code\]
+\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[[code](https://github.com/SonyResearch/raw_bench)\]
 
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
