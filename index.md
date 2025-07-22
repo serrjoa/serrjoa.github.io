@@ -10,7 +10,7 @@ title: Joan Serrà's personal web page
 
 Welcome to my personal web page.
 
-You can also find me on (in order of usage) [X](https://x.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), [Bluesky](https://bsky.app/profile/serrjoa.bsky.social), or [GitHub](https://github.com/joansj).
+You can also find me (in order of usage) on [X](https://x.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj).
 
 ---
 
