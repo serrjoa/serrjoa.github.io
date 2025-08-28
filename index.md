@@ -887,6 +887,8 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
+***How I got here (and some potentially useful advice that came up in the way)**: Keynote talk at the opening ceremony of the 2025 EMAI Master at Universitat Pompeu Fabra (1/9/2025).
+
 **Musical version matching with segment reductions and contrastive learning**: Keynote talk at the [2025 CVCRD Workshop](https://www.cvc.uab.es/cvcrd/) (25/7/2025), Invited talk at the LLM Mini-Workshop of [Universitat de Lleida](https://www.eps.udl.cat/ca/) (26/3/2025).
 
 **AI-related panels and debates**: Panelist at the UPF workshop on [Generative Music in the Context of Trustworthy AI](https://www.upf.edu/web/etic/ai-music) (30/5/2025), panelist at the [2025 meeting of the Catalan RDI-IA network](https://xarxardi-ia.cat/event/ii-jornada-anual/) (22/5/2025), debate participation at the [2024 sAIling Catalonia](https://www.cvc.uab.es/blog/2024/09/27/sailing-catalonia/) event (19/9/2024).
@@ -935,11 +937,11 @@ J. Serrà<br>
 
 ## Experience/education <a name="misc-experience"></a>
 
-**[Sony AI](https://ai.sony/)** (2024-Present). Staff research scientist and research manager, Audio and Music Team.
+**[Sony AI](https://ai.sony/)** (2024-Present). Staff research scientist and team lead, Music Foundation Model Team.
 
-**[Dolby Laboratories](https://www.dolby.com/)** (2019-2024). Research scientist, senior research scientist, and research manager of the Applied AI team, Advanced Technology Group.
+**[Dolby Laboratories](https://www.dolby.com/)** (2019-2024). Staff research scientist, senior staff research scientist, and research manager of the Applied AI team, Advanced Technology Group.
 
-**[Telefónica R&D](http://www.tid.es/)** (2015-2019). Research scientist. Machine Learning, Data Mining and User Modeling Group.
+**[Telefónica R&D](http://www.tid.es/)** (2015-2019). Research scientist and Senior research scientist. Machine Learning, Data Mining and User Modeling Group.
 
 **[Spanish National Research Council](http://www.csic.es/)** (2011-2015). Postdoctoral researcher. Artificial Intelligence Research Institute (IIIA-CSIC). Dept. of Learning Systems.
 
@@ -960,14 +962,14 @@ J. Serrà<br>
 **Journal referee**: Connection Science (2007), EURASIP Journal on Advances on Signal Processing (2010), IEEE Journal of Selected Topics in Signal Processing (2011), Journal of New Music Research (2012-2014), Journal of Intelligent Information Systems (2012), Artificial Intelligence (2013-2014), IEEE Trans. on Audio, Speech and Language Processing (2013-2014), IEEE Trans. on Multimedia (2014-2015), Knowledge and Information Systems (2014), PLoS ONE (2014), Information Sciences (2014), EURASIP Journal on Audio, Speech, and Music Processing (2015), ACM Trans. on Multimedia Computing, Communications, and Applications (2015-2016), Mathematical Problems in Engineering (2016), Knowledge-Based Systems (2017).<br>
 *--- Since 2017, I am not reviewing for journals that have publication or article access paywalls.*
 
-**Conference reviewer or area chair**: ISMIR (2008-2014, 2024-2025), ICMC (2009-2010), SMC (2010-2013), ICASSP (2011-2013, 2016), ACM-MM (2013-2014), AES (2013), TRI (2015), UbiComp (2015), AAAI (2016-2018), ICWSM (2017), NIPS-ML4Audio (2017), CCIA (2018), KDD (2019), IJCAI (2019), NeurIPS (2020-2021), ICLR (2021-2022), ICML (2021-2022), INTERSPEECH (2021-2022).<br>
+**Conference reviewer or area chair**: ISMIR (2008-2014, 2024-2025), ICMC (2009-2010), SMC (2010-2013), ICASSP (2011-2013, 2016), ACM-MM (2013-2014), AES (2013), TRI (2015), UbiComp (2015), AAAI (2016-2018), ICWSM (2017), NIPS-ML4Audio (2017), CCIA (2018), KDD (2019), IJCAI (2019), NeurIPS (2020-2021, 2025), ICLR (2021-2022), ICML (2021-2022, 2024), INTERSPEECH (2021-2022).<br>
 *--- Since 2018, I am not reviewing for conferences that have publication or article access paywalls.*
 
-**Conference organization**: MIRUM (2011-2012), SMC 2010, IberSpeech 2018, DLBCN (2018-2019, 2021-2024).
+**Conference organization**: MIRUM (2011-2012), SMC 2010, IberSpeech 2018, DLBCN (2018-2019, 2021-2025).
 
 **Research funding agencies**: CONICYT (2017).
 
-**​Others**: Reviewer for MIT Technology Review (2018), panelist at AAAI Doctoral Consortium (2012), advisor at bcn.ai (2018-2020), mentor at DLBCN (2022, 2024).
+**​Others**: Reviewer for MIT Technology Review (2018), mentor at AAAI Doctoral Consortium (2012), advisor at bcn.ai (2018-2020), mentor at DLBCN (2022, 2024).
 
 **Member of the [ELLIS](https://ellis.eu) Society** (2022).
 
@@ -1101,9 +1103,17 @@ Appearances in media:
 
 **R.O. Araz**. *Building factual super-similarity for music segments*. PhD thesis, Universitat Pompeu Fabra. 2022-Ongoing. Co-directed with D. Bogdanov and X. Serra.
 
-**E. Mancini**. *Lyrics-based music matching*. Student collaboration, Sony AI. June 2025.
+**D. Goswami**. *Training data attribution in diffusion models*. Student internship, Sony AI. October 2025.
 
-**Y. Ozer**. *A systematic framework for comprehensive analysis of the robustness of audio watermarking approaches*. Student internship, Sony AI. December 2024. Co-supervised with W. Choi, M. Singh, & W. Liao.
+**A. Riou**. *Sample identification music matching*. Student internship, Sony AI. September 2025.
+
+**A. Gui**. *Machine unlearning for detecting problematic music source separation data*. Student internship, Sony AI. September 2025. Co-supervised with T. Shibuya & W.-H. Liao.
+
+**E. Moliner**. *Generative prediction of music mixing parameters*. Student internship, Sony AI. August 2025. Co-supervised with M.A. Martinez & W.-H. Liao.
+
+**E. Mancini**. *Lyrics-based music matching*. Student collaboration, Sony AI. July 2025.
+
+**Y. Ozer**. *A systematic framework for comprehensive analysis of the robustness of audio watermarking approaches*. Student internship, Sony AI. December 2024. Co-supervised with W. Choi, M. Singh, & W.-H. Liao.
 
 **L.A. Lazendörfer**. *Investigating training data attribution in text-to-music generative models*. Student internship, Sony AI. August 2024. Co-supervised with M. Singh.
 
