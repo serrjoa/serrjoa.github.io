@@ -49,8 +49,8 @@ R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, &
 
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
-*Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[[code](https://github.com/SonyResearch/raw_bench)\]
+*Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, pp. 5113-5117. Aug 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[doi\] \[[code](https://github.com/SonyResearch/raw_bench)\]
 
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
@@ -60,7 +60,7 @@ W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiy
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
 *Int. Conf. on Machine Learning (ICML)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[doi\] \[[code](https://github.com/sony/clews)\] \[[checkpoints](https://zenodo.org/records/15045900)\]
+\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[pmlr\] \[[code](https://github.com/sony/clews)\] \[[checkpoints](https://zenodo.org/records/15045900)\]
 
 > **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
 X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
