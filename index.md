@@ -887,9 +887,9 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
-**AI debate/panelist**: Panelist at the UPF workshop on [Generative Music in the Context of Trustworthy AI](https://www.upf.edu/web/etic/ai-music) (30/5/2025), debate participation at the [2024 sAIling Catalonia](https://www.cvc.uab.es/blog/2024/09/27/sailing-catalonia/) event (19/9/2024).
+**Musical version matching with segment reductions and contrastive learning**: Keynote talk at the [2025 CVCRD Workshop](https://www.cvc.uab.es/cvcrd/) (25/7/2025), Invited talk at the LLM Mini-Workshop of [Universitat de Lleida](https://www.eps.udl.cat/ca/) (26/3/2025).
 
-**Musical version matching with segment reductions and contrastive learning**: Invited talk at the LLM Mini-Workshop of [Universitat de Lleida](https://www.eps.udl.cat/ca/) (26/3/2025).
+**AI-related panels and debates**: Panelist at the UPF workshop on [Generative Music in the Context of Trustworthy AI](https://www.upf.edu/web/etic/ai-music) (30/5/2025), panelist at the [2025 meeting of the Catalan RDI-IA network](https://xarxardi-ia.cat/event/ii-jornada-anual/) (22/5/2025), debate participation at the [2024 sAIling Catalonia](https://www.cvc.uab.es/blog/2024/09/27/sailing-catalonia/) event (19/9/2024).
 
 **Generative modeling at Dolby Laboratories**: Monthly [talk at LISTEN](https://listen.telecom-paris.fr/en/agenda/monthly-talk-joan-serra-bolby/) - Télécom Paris (30/11/2023), invited talk at [Cicle de conferències Patronat/EPS](https://www.udg.edu/ca/eps/escola-politecnica-superior/detall-activitats/eventid/18046) at Universitat de Girona (30/11/2021). 
 
@@ -1198,4 +1198,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: May 2025]</i></div>
+<div style="text-align: right"><i>[Last edit: August 2025]</i></div>
