@@ -26,7 +26,7 @@ You can also find me (in order of usage) on [X](https://x.com/serrjoa), [Google 
 
 # Short bio <a name="shortbio"></a>
 
-I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (since 2024). I do research on machine learning, with a focus on audio and multimedia analysis, synthesis, and retrieval. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did an MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and [Dolby Laboratories](https://www.dolby.com/) as an AI researcher and research manager (2019-2024). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly cited and/or in top tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge), and give talks and lectures on subjects of my interest (lately basically related to representation learning and generative modeling).
+I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (since 2024). I do research on machine learning, with a focus on audio and multimedia analysis, synthesis, and retrieval. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did an MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and [Dolby Laboratories](https://www.dolby.com/) as an AI researcher and manager (2019-2024). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, funded by National and European institutions, and co-authored over 100 publications, many of them highly cited and/or in top tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge), and give talks and lectures on subjects of my interest (lately basically related to representation learning and generative modeling).
 
 
 
@@ -50,11 +50,11 @@ R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, &
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 *Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, pp. 5113-5117. Aug 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[doi\] \[[code](https://github.com/SonyResearch/raw_bench)\]
+\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[[isca](https://www.isca-archive.org/interspeech_2025/ozer25_interspeech.html)\] \[[code](https://github.com/SonyResearch/raw_bench)\]
 
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
-*AI Heard That! ICML 2025 Workshop on Machine Learning for Audio.* <br>
+*AI Heard That! ICML Workshop on Machine Learning for Audio.* Aug 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2506.18312)\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
 
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
