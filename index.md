@@ -37,7 +37,7 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 > **Leveraging Whisper embeddings for audio-based lyrics matching** <br>
 E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 *ArXiv*, 2510.08176. Oct 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2510.08176)\]
+\[[arxiv](https://arxiv.org/abs/2510.08176)\] \[code\] \[checkpoints\]
 
 > **Attribution-by-design: ensuring inference-time provenance in generative music systems** <br>
 F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
@@ -71,8 +71,8 @@ W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiy
 
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
-*Int. Conf. on Machine Learning (ICML)*, in press. <br>
-\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[pmlr\] \[[code](https://github.com/sony/clews)\] \[[checkpoints](https://zenodo.org/records/15045900)\]
+*Int. Conf. on Machine Learning (ICML)*, pp. 53923-53939. Jul 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2502.16936)\] \[[pmlr](https://proceedings.mlr.press/v267/serra25a.html)\] \[[code](https://github.com/sony/clews)\] \[[checkpoints](https://zenodo.org/records/15045900)\]
 
 > **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
 X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
