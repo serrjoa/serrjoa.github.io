@@ -56,7 +56,7 @@ F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
 
 > **Enhancing neural audio fingerprint robustness to audio degradation for music identification** <br>
 R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
-*Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. <br>
+*Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. Oct 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2506.22661)\] \[[code](https://github.com/raraz15/neural-music-fp)\] \[[checkpoints](https://doi.org/10.5281/zenodo.15719945)\]
 
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
@@ -66,8 +66,9 @@ Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
-*AI Heard That! ICML Workshop on Machine Learning for Audio.* Aug 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2506.18312)\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
+*NeurIPS Creative AI Track*, *Advances in Neural Information Processing Systems (NeurIPS)*, in press. Dec 2025. <br>
+(Also presented at *AI Heard That! ICML Workshop on Machine Learning for Audio*, in Jul 2025) <br>
+\[[arxiv](https://arxiv.org/abs/2506.18312)\] \[neurips\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
 
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
