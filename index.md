@@ -34,7 +34,15 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ## Preprints <a name="pub-preprints"></a>
 
-(None)
+> **Leveraging Whisper embeddings for audio-based lyrics matching** <br>
+E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
+*ArXiv*, 2510.08176. Oct 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2510.08176)\]
+
+> **Attribution-by-design: ensuring inference-time provenance in generative music systems** <br>
+F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
+*ArXiv*, 2510.08062. Oct 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2510.08062)\]
 
 \[[Back to top](#beginning)\]
 
