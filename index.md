@@ -50,7 +50,7 @@ F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 
 ### 2025
 
-> **Direct attribution of training data contribution in music generation** <br>
+> **System and method for attributing an output of a generative artificial intelligence (AI) system** <br>
 F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
 *Patent* US-19/341,289 (Sep 26, 2025). <br>
 
