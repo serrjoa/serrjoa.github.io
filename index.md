@@ -10,7 +10,7 @@ title: Joan Serrà's personal web page
 
 Welcome to my personal web page.
 
-You can also find me (in order of usage) on [X](https://x.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj).
+You can also find me on [X](https://x.com/serrjoa), [Google Scholar](http://scholar.google.com/citations?user=sZLj96sAAAAJ), [LinkedIn](https://es.linkedin.com/in/joan-serr%C3%A0-b9249018), or [GitHub](https://github.com/joansj) (in order of usage).
 
 ---
 
@@ -72,7 +72,7 @@ Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
 *NeurIPS Creative AI Track*, *Advances in Neural Information Processing Systems (NeurIPS)*, in press. Dec 2025. <br>
-(Also presented at *AI Heard That! ICML Workshop on Machine Learning for Audio*, in Jul 2025) <br>
+(Also presented at *AI Heard That! ICML Workshop on Machine Learning for Audio* in Jul 2025) <br>
 \[[arxiv](https://arxiv.org/abs/2506.18312)\] \[neurips\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
 
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
@@ -1123,15 +1123,15 @@ Appearances in media:
 
 **D. Goswami**. *Training data attribution in diffusion models*. Student internship, Sony AI. October 2025.
 
-**A. Riou**. *Sample identification music matching*. Student internship, Sony AI. September 2025.
+**A. Riou**. *Music sample identification*. Student internship, Sony AI. September 2025.
 
 **A. Gui**. *Machine unlearning for detecting problematic music source separation data*. Student internship, Sony AI. September 2025. Co-supervised with T. Shibuya & W.-H. Liao.
 
 **E. Moliner**. *Generative prediction of music mixing parameters*. Student internship, Sony AI. August 2025. Co-supervised with M.A. Martinez & W.-H. Liao.
 
-**E. Mancini**. *Lyrics-based music matching*. Student collaboration, Sony AI. July 2025.
+**E. Mancini**. *Audio-based lyrics matching*. Student collaboration, Sony AI. July 2025.
 
-**Y. Ozer**. *A systematic framework for comprehensive analysis of the robustness of audio watermarking approaches*. Student internship, Sony AI. December 2024. Co-supervised with W. Choi, M. Singh, & W.-H. Liao.
+**Y. Özer**. *A systematic framework for comprehensive analysis of the robustness of audio watermarking approaches*. Student internship, Sony AI. December 2024. Co-supervised with W. Choi, M. Singh, & W.-H. Liao.
 
 **L.A. Lazendörfer**. *Investigating training data attribution in text-to-music generative models*. Student internship, Sony AI. August 2024. Co-supervised with M. Singh.
 
