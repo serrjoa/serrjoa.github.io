@@ -34,6 +34,11 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **Automatic music sample identification with multi-track contrastive learning** <br>
+A. Riou, J. Serrà, & Y. Mitsufuji. <br>
+*ArXiv*, 2510.11507. Oct 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2510.11507)\] \[code\] \[checkpoints\]
+
 > **Leveraging Whisper embeddings for audio-based lyrics matching** <br>
 E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 *ArXiv*, 2510.08176. Oct 2025. <br>
