@@ -1125,7 +1125,7 @@ Appearances in media:
 
 **A. Riou**. *Music sample identification*. Student internship, Sony AI. September 2025.
 
-**A. Gui**. *Machine unlearning for detecting problematic music source separation data*. Student internship, Sony AI. September 2025. Co-supervised with T. Shibuya & W.-H. Liao.
+**A. Gui**. *Machine unlearning for detecting problematic music source separation data*. Student internship, Sony AI. September 2025. Co-supervised with K. Shimada, T. Shibuya, & W.-H. Liao.
 
 **E. Moliner**. *Generative prediction of music mixing parameters*. Student internship, Sony AI. August 2025. Co-supervised with M.A. Martinez & W.-H. Liao.
 
