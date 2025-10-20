@@ -34,6 +34,11 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **Towards blind data cleaning: a case study in music source separation** <br>
+A. Gui, W. Choi, J. Koo, K. Shimada, T. Shibuya, J. Serrà, W.-H. Liao, & Y. Mitsufuji. <br>
+*ArXiv*, 2510.15409. Oct 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2510.15409)\]
+
 > **Automatic music sample identification with multi-track contrastive learning** <br>
 A. Riou, J. Serrà, & Y. Mitsufuji. <br>
 *ArXiv*, 2510.11507. Oct 2025. <br>
