@@ -34,6 +34,11 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **Automatic music mixing using a generative model of effect embeddings** <br>
+E. Moliner, M.A. Martínez-Ramírez, J. Koo, W.-H. Liao, K.W. Cheuk, J. Serrà, V. Välimäki, & Y. Mitsufuji <br>
+*ArXiv*, 2511.08040. Nov 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2511.08040)\] \[[demo](https://sonyresearch.github.io/MEGAMI)\] \[[code](https://github.com/SonyResearch/MEGAMI)\] 
+
 > **Towards blind data cleaning: a case study in music source separation** <br>
 A. Gui, W. Choi, J. Koo, K. Shimada, T. Shibuya, J. Serrà, W.-H. Liao, & Y. Mitsufuji. <br>
 *ArXiv*, 2510.15409. Oct 2025. <br>
