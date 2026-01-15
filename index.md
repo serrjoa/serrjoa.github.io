@@ -37,12 +37,12 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 > **Automatic music mixing using a generative model of effect embeddings** <br>
 E. Moliner, M.A. Martínez-Ramírez, J. Koo, W.-H. Liao, K.W. Cheuk, J. Serrà, V. Välimäki, & Y. Mitsufuji <br>
 *ArXiv*, 2511.08040. Nov 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2511.08040)\] \[[demo](https://sonyresearch.github.io/MEGAMI)\] \[[code](https://github.com/SonyResearch/MEGAMI)\] 
+\[[arxiv](https://arxiv.org/abs/2511.08040)\] \[[demo](https://sonyresearch.github.io/MEGAMI)\] \[[code](https://github.com/SonyResearch/MEGAMI)\] \[[checkpoints](https://github.com/SonyResearch/MEGAMI?tab=readme-ov-file#-checkpoints)\]
 
 > **Towards blind data cleaning: a case study in music source separation** <br>
 A. Gui, W. Choi, J. Koo, K. Shimada, T. Shibuya, J. Serrà, W.-H. Liao, & Y. Mitsufuji. <br>
 *ArXiv*, 2510.15409. Oct 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2510.15409)\]
+\[[arxiv](https://arxiv.org/abs/2510.15409)\] \[code\]
 
 > **Automatic music sample identification with multi-track contrastive learning** <br>
 A. Riou, J. Serrà, & Y. Mitsufuji. <br>
@@ -72,12 +72,12 @@ F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
 > **Enhancing neural audio fingerprint robustness to audio degradation for music identification** <br>
 R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, in press. Oct 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2506.22661)\] \[[code](https://github.com/raraz15/neural-music-fp)\] \[[checkpoints](https://doi.org/10.5281/zenodo.15719945)\]
+\[[arxiv](https://arxiv.org/abs/2506.22661)\] \[[doi](https://doi.org/10.5281/zenodo.17706424)\] \[[code](https://github.com/raraz15/neural-music-fp)\] \[[checkpoints](https://doi.org/10.5281/zenodo.15719945)\]
 
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 *Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, pp. 5113-5117. Aug 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[[isca](https://www.isca-archive.org/interspeech_2025/ozer25_interspeech.html)\] \[[code](https://github.com/SonyResearch/raw_bench)\]
+\[[arxiv](https://arxiv.org/abs/2505.19663)\] \[[doi](https://doi.org/10.21437/Interspeech.2025-1530)\] \[[code](https://github.com/SonyResearch/raw_bench)\]
 
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
@@ -965,7 +965,7 @@ J. Serrà<br>
 
 ## Experience/education <a name="misc-experience"></a>
 
-**[Sony AI](https://ai.sony/)** (2024-Present). Staff research scientist and team lead, Music Foundation Model Team.
+**[Sony AI](https://ai.sony/)** (2024-Present). Staff research scientist and EU team lead, Music Foundation Model Team.
 
 **[Dolby Laboratories](https://www.dolby.com/)** (2019-2024). Staff research scientist, senior staff research scientist, and research manager of the Applied AI team, Advanced Technology Group.
 
@@ -1236,4 +1236,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: October 2025]</i></div>
+<div style="text-align: right"><i>[Last edit: January 2026]</i></div>
