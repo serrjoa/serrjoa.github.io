@@ -59,9 +59,17 @@ F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 *ArXiv*, 2510.08062. Oct 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2510.08062)\]
 
+
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
+
+### 2026
+
+> **Emergent, not immanent: a Baradian reading of explainable AI** <br>
+F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
+*CHI Conf. on Human Factors in Computing Systems (CHI), in press. Mar 2026.* <br>
+\[acm\]
 
 ### 2025
 
