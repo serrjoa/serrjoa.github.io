@@ -72,25 +72,25 @@ F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 
 ### 2025
 
-> **System and method for attributing an output of a generative artificial intelligence (AI) system** <br>
-F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
-*Patent* US-19/341,289 (Sep 26, 2025). <br>
+> **Large-scale training data attribution for music generative models via unlearning** <br>
+W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
+*Advances in Neural Information Processing Systems (NeurIPS)*, in press - *Creative AI Track*. Dec 2025. <br>
+(Also presented at *AI Heard That! ICML Workshop on Machine Learning for Audio* in Jul 2025) <br>
+\[[arxiv](https://arxiv.org/abs/2506.18312)\] \[neurips\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
 
 > **Enhancing neural audio fingerprint robustness to audio degradation for music identification** <br>
 R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, pp. 399-406. Oct 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2506.22661)\] \[[doi](https://doi.org/10.5281/zenodo.17706424)\] \[[code](https://github.com/raraz15/neural-music-fp)\] \[[checkpoints](https://doi.org/10.5281/zenodo.15719945)\]
 
+> **System and method for attributing an output of a generative artificial intelligence (AI) system** <br>
+F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
+*Patent* US-19/341,289 (Sep 26, 2025). <br>
+
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
 *Conf. of the Int. Speech Communication Assoc. (INTERSPEECH)*, pp. 5113-5117. Aug 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2505.19663)\] \[[doi](https://doi.org/10.21437/Interspeech.2025-1530)\] \[[code](https://github.com/SonyResearch/raw_bench)\]
-
-> **Large-scale training data attribution for music generative models via unlearning** <br>
-W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
-*Advances in Neural Information Processing Systems (NeurIPS)*, in press - *Creative AI Track*. Dec 2025. <br>
-(Also presented at *AI Heard That! ICML Workshop on Machine Learning for Audio* in Jul 2025) <br>
-\[[arxiv](https://arxiv.org/abs/2506.18312)\] \[neurips\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
 
 > **Supervised contrastive learning from weakly-labeled audio segments for musical version matching** <br>
 J. Serrà, R.O. Araz, D. Bogdanov, & Y. Mitsufuji. <br>
