@@ -67,7 +67,7 @@ E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 
 > **Emergent, not immanent: a Baradian reading of explainable AI** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
-*ACM CHI Conf. on Human Factors in Computing Systems (CHI)*, in press. Mar 2026. <br>
+*ACM CHI Conf. on Human Factors in Computing Systems (CHI)*, in press. Apr 2026. <br>
 \[doi\]
 
 ### 2025
