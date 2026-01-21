@@ -1224,11 +1224,11 @@ Appearances in media:
 
 # Contact <a name="contact"></a>
 
-Physical address:
+Address:
 
 > Joan Serrà <br>
-> Sony AI - Barcelona<br>
-> Sony Europe Ltd <br>
+> Sony AI <br>
+> Sony Europe B.V. - Barcelona <br>
 > Av. Diagonal 640, floor 4, unit A <br>
 > 08017 Barcelona <br>
 > firstname (dot) serra (at) sony (dot) com <br>
