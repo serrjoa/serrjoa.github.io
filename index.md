@@ -1227,15 +1227,15 @@ Appearances in media:
 Physical address:
 
 > Joan Serrà <br>
-> Sony AI - Barcelona <br>
-> OneCoWork Portal de l'Àngel <br>
-> Av. del Portal de l'Àngel 40, planta 7 <br>
-> 08002 Barcelona <br>
+> Sony AI - Barcelona<br>
+> Sony Europe Ltd <br>
+> Av. Diagonal 640, floor 4, unit A <br>
+> 08017 Barcelona <br>
 > firstname (dot) serra (at) sony (dot) com <br>
 
 Map:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.747749156461!2d2.169505776773431!3d41.38675447130016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a4a38837c91765%3A0xe5d93fd8fc5c1ea8!2sOneCoWork%20Portal%20de%20l%C2%B4%C3%81ngel%20%7C%20Coworking%20Barcelona!5e1!3m2!1sen!2sde!4v1730208166211!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7522.04438083839!2d2.1314788269531237!3d41.390854151493194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a499cabd15a4fb%3A0x512227f76410b110!2sSony%20Europe%20B.V.%20sucursal%20en%20Espa%C3%B1a!5e1!3m2!1sen!2ses!4v1768995580662!5m2!1sen!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 \[[Back to top](#beginning)\]
 
