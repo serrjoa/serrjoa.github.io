@@ -63,7 +63,7 @@ A. Riou, J. Serrà, & Y. Mitsufuji. <br>
 > **Leveraging Whisper embeddings for audio-based lyrics matching** <br>
 E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2510.08176)\] \[doi\] \[code\] \[checkpoints\]
+\[[arxiv](https://arxiv.org/abs/2510.08176)\] \[doi\] \[[code](https://github.com/helemanc/audio-based-lyrics-matching)\] \[[checkpoints](https://huggingface.co/audio-based-lyrics-matching)\]
 
 > **Emergent, not immanent: a Baradian reading of explainable AI** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
