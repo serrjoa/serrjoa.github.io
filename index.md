@@ -1094,7 +1094,11 @@ Appearances in media:
 
 *\[Sorry for the broken links, I promise these all worked at some point\]*
 
-* Quins han estat els articles més citats del CCIA? "Towards a universal neural network encoder for time series" --- [ACIA Nodes](https://acia.cat/butlletins/nodes_60.pdf).
+* Sony Group tech can identify original music in AI-generated songs (2026) --- [NikkeiAsia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs).
+
+* Protecting creator's rights in the age of AI (2025) --- [SonyAI](https://ai.sony/blog/Protecting-Creator%E2%80%99s-Rights-in-the-Age-of-AI/).
+
+* Quins han estat els articles més citats del CCIA? "Towards a universal neural network encoder for time series" (2024) --- [ACIA Nodes](https://acia.cat/butlletins/nodes_60.pdf).
 
 * An artificial intelligence that does not forget what it learns (2018) --- [BlogThinkBig](https://blogthinkbig.com/inteligencia-artificial-aprende-algoritmo), [TechWorld News](https://www.techworld.com/tech-innovation/what-is-catastrophic-forgetting-how-does-it-affect-ai-development-3687007/).
 
@@ -1243,4 +1247,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: January 2026]</i></div>
+<div style="text-align: right"><i>[Last edit: February 2026]</i></div>
