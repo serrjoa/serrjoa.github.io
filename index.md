@@ -70,6 +70,10 @@ F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 *ACM CHI Conf. on Human Factors in Computing Systems (CHI)*, in press. Apr 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2601.15029)\] \[doi\]
 
+> **Unified intelligent music post-production framework with generative, interpretable, and natural language-guided audio processing** <br>
+M. Martínez, J. Koo, W.-H. Liao, Y. Mitsufuji, W. Choi, J. Serrà, & G. Fabbro. <br>
+*Patent* US-63/975,772 (Feb 4, 2026).
+
 ### 2025
 
 > **Large-scale training data attribution for music generative models via unlearning** <br>
@@ -85,7 +89,7 @@ R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, &
 
 > **System and method for attributing an output of a generative artificial intelligence (AI) system** <br>
 F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
-*Patent* US-19/341,289 (Sep 26, 2025). <br>
+*Patent* US-19/341,289 (Sep 26, 2025).
 
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
@@ -121,7 +125,7 @@ S. Pascual, C. Yeh, I. Tsiamas, & J. Serrà. <br>
 
 > **Joint semantic knowledge distillation and masked acoustic modeling for full-band speech restoration with improved intelligibility** <br>
 X. Liu, X. Li, J. Serrà, & S. Pascual. <br>
-*Patent* ES-P202430693 (Sep 2, 2024), WO-2024-116230 (Sep 2, 2024). <br>
+*Patent* ES-P202430693 (Sep 2, 2024), WO-2024-116230 (Sep 2, 2024).
 
 > **GASS: generalizing audio source separation with large-scale data** <br>
 J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
@@ -132,7 +136,7 @@ J. Pons, X. Liu, S. Pascual, & J. Serrà. <br>
 
 > **System for audio-visual content trimming: highlight generation, moment retrieval and summarization for user generated content** <br>
 G. Jagatap, G. KV, D. Chandran, J. Serrà, & A. Fanelli <br>
-*Patent* ES-P202331088 (Dec 27, 2023), US-63/561206 (Mar 4, 2024). <br>
+*Patent* ES-P202331088 (Dec 27, 2023), US-63/561206 (Mar 4, 2024).
 
 > **Mono-to-stereo through parametric stereo generation** <br>
 J. Serrà, D. Scaini, S. Pascual, D. Arteaga, J. Pons, J. Breebaart, & G. Cengarle <br>
