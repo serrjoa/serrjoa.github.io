@@ -1098,7 +1098,7 @@ Appearances in media:
 
 *\[Sorry for the broken links, I promise these all worked at some point\]*
 
-* Sony Group tech can identify original music in AI-generated songs (2026) --- [NikkeiAsia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs), [Forbes](https://www.forbes.com/sites/billrosenblatt/2026/02/25/sony-announces-tech-to-detect-music-used-in-ai-it-has-plenty-of-company/).
+* Sony Group tech can identify original music in AI-generated songs (2026) --- [NikkeiAsia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs), [MusicBusinessWorldwide](https://www.musicbusinessworldwide.com/sony-group-develops-tech-to-track-original-music-in-ai-generated-songs-report/), [Forbes](https://www.forbes.com/sites/billrosenblatt/2026/02/25/sony-announces-tech-to-detect-music-used-in-ai-it-has-plenty-of-company/).
 
 * Protecting creator's rights in the age of AI (2025) --- [SonyAI](https://ai.sony/blog/Protecting-Creator%E2%80%99s-Rights-in-the-Age-of-AI/).
 
@@ -1251,4 +1251,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: February 2026]</i></div>
+<div style="text-align: right"><i>[Last edit: March 2026]</i></div>
