@@ -65,6 +65,11 @@ E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2510.08176)\] \[doi\] \[[code](https://github.com/helemanc/audio-based-lyrics-matching)\] \[[checkpoints](https://huggingface.co/audio-based-lyrics-matching)\]
 
+> **Chain-of-thought: epistemic flaws and fictional explanations** <br>
+F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
+*Human-Centered Explainable AI (HCXAI) Workshop at CHI 2026*, in press. Apr 2026. <br>
+\[web\]
+
 > **Emergent, not immanent: a Baradian reading of explainable AI** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 *ACM CHI Conf. on Human Factors in Computing Systems (CHI)*, in press. Apr 2026. <br>
