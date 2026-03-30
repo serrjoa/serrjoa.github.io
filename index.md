@@ -53,7 +53,7 @@ E. Moliner, M.A. Martínez-Ramírez, J. Koo, W.-H. Liao, K.W. Cheuk, J. Serrà, 
 > **Towards blind data cleaning: a case study in music source separation** <br>
 A. Gui, W. Choi, J. Koo, K. Shimada, T. Shibuya, J. Serrà, W.-H. Liao, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2510.15409)\] \[doi\] \[code\]
+\[[arxiv](https://arxiv.org/abs/2510.15409)\] \[doi\]
 
 > **Automatic music sample identification with multi-track contrastive learning** <br>
 A. Riou, J. Serrà, & Y. Mitsufuji. <br>
@@ -68,7 +68,7 @@ E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 > **Chain-of-thought: epistemic flaws and fictional explanations** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 *Human-Centered Explainable AI (HCXAI) Workshop at CHI 2026*, in press. Apr 2026. <br>
-\[web\]
+\[[web](https://hcxai.jimdosite.com/)\]
 
 > **Emergent, not immanent: a Baradian reading of explainable AI** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
