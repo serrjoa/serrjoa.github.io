@@ -19,12 +19,12 @@ You can also find me on [X](https://x.com/serrjoa), [Google Scholar](http://scho
 * **[Bio](#shortbio)**: short biography.
 * **[Publications](#publications)**: there you can go to [preprint](#pub-preprints), [recent (2021-current)](#pub-recent), [past (2011-2020)](#pub-past), or [prehistoric (before 2011)](#pub-prehistoric) publications/patents.
 * **[Talks](#talks)**: recent and past talks.
-* **[Misc](#misc)**: there you can go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
+* **[Misc](#misc)**: there you can go to [experience/education](#misc-experience), [scientific service](#misc-scientific), [projects](#misc-projects), [merits/media appearances](#misc-merits), [teaching](#misc-teaching), or [students/interns](#misc-students).
 * **[Contact](#contact)**: physical address, email, and map.
 
 ---
 
-# Short bio <a name="shortbio"></a>
+# Short Bio <a name="shortbio"></a>
 
 I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (since 2024). I do research on machine learning, with a focus on audio and multimedia analysis, synthesis, and retrieval. I was born in [Riudarenes](https://goo.gl/maps/w6cbtgExxNtDVCVq8), Girona (1980). I did an MSc and PhD in machine learning for audio at the [Music Technology Group](http://mtg.upf.edu/) of [Universitat Pompeu Fabra](http://www.upf.edu/) (2006-2011) and a postdoc in artificial intelligence at [IIIA-CSIC](http://iiia.csic.es/) (2011-2015). After that, I joined [Telefónica R&D](http://www.tid.es/) as a machine learning researcher (2015-2019) and [Dolby Laboratories](https://www.dolby.com/) as an AI researcher and manager (2019-2024). I have had research stays at the [Max Planck Institute for the Physics of Complex Systems](http://www.mpipks-dresden.mpg.de/) (2010) and the [Max Planck Institute for Computer Science](http://www.mpi-inf.mpg.de/) (2011). I have been involved in several research projects, co-invented over 20 patents, and co-authored over 150 publications, many of them highly cited and/or in top tier venues. I occasionally act as reviewer or area chair for some of those venues (provided articles are free access/charge), and give talks and lectures on subjects of my interest (lately basically related to representation learning and generative modeling).
 
@@ -979,7 +979,7 @@ J. Serrà<br>
 
 # Miscellaneous <a name="misc"></a>
 
-## Experience/education <a name="misc-experience"></a>
+## Experience/Education <a name="misc-experience"></a>
 
 **[Sony AI](https://ai.sony/)** (2024-Present). Staff research scientist and EU team lead, Music Foundation Model Team.
 
@@ -1001,7 +1001,7 @@ J. Serrà<br>
 
 \[[Back to top](#beginning)\]
 
-## Scientific service <a name="misc-scientific"></a>
+## Scientific Service <a name="misc-scientific"></a>
 
 **Journal referee**: Connection Science (2007), EURASIP Journal on Advances on Signal Processing (2010), IEEE Journal of Selected Topics in Signal Processing (2011), Journal of New Music Research (2012-2014), Journal of Intelligent Information Systems (2012), Artificial Intelligence (2013-2014), IEEE Trans. on Audio, Speech and Language Processing (2013-2014), IEEE Trans. on Multimedia (2014-2015), Knowledge and Information Systems (2014), PLoS ONE (2014), Information Sciences (2014), EURASIP Journal on Audio, Speech, and Music Processing (2015), ACM Trans. on Multimedia Computing, Communications, and Applications (2015-2016), Mathematical Problems in Engineering (2016), Knowledge-Based Systems (2017).<br>
 *--- Since 2017, I am not reviewing for journals that have publication or article access paywalls.*
@@ -1063,7 +1063,7 @@ Privately-funded:
 
 \[[Back to top](#beginning)\]
 
-## Merits <a name="misc-merits"></a>
+## Merits and Appearances in Media <a name="misc-merits"></a>
 
 Merits, awards and competitive grants:
 
@@ -1147,7 +1147,7 @@ Appearances in media:
 
 \[[Back to top](#beginning)\]
 
-## Students/interns <a name="misc-students"></a>
+## Students/Interns <a name="misc-students"></a>
 
 **R.O. Araz**. *Building factual super-similarity for music segments*. PhD thesis, Universitat Pompeu Fabra. 2022-Ongoing. Co-directed with D. Bogdanov and X. Serra.
 
