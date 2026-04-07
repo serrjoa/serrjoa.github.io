@@ -46,7 +46,7 @@ F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 ### 2026
 
 > **Automatic music mixing using a generative model of effect embeddings** <br>
-E. Moliner, M.A. Martínez-Ramírez, J. Koo, W.-H. Liao, K.W. Cheuk, J. Serrà, V. Välimäki, & Y. Mitsufuji <br>
+E. Moliner, M.A. Martínez-Ramírez, J. Koo, W.-H. Liao, K.W. Cheuk, J. Serrà, V. Välimäki, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2511.08040)\] \[doi\] \[[demo](https://sonyresearch.github.io/MEGAMI)\] \[[code](https://github.com/SonyResearch/MEGAMI)\] \[[checkpoints](https://github.com/SonyResearch/MEGAMI?tab=readme-ov-file#-checkpoints)\]
 
