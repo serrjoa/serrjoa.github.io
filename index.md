@@ -75,6 +75,11 @@ F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 *ACM CHI Conf. on Human Factors in Computing Systems (CHI)*, in press. Apr 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2601.15029)\] \[doi\]
 
+> **Woosh: a sound effects foundation model** <br>
+G. Hadjeres, M. Ferras, K. Koutini, B. Weck, A. Bittar, T. Hummel, Z. Lahrici, H. Missoum, J. Serrà, & Y. Mitsufuji. <br>
+*Technical Report*. Apr 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2604.01929)\] \[[code](https://github.com/SonyResearch/Woosh)\] \[[checkpoints](https://github.com/SonyResearch/Woosh/releases)\] \[[demo](https://sonyresearch.github.io/Woosh/)\]
+
 > **Unified intelligent music post-production framework with generative, interpretable, and natural language-guided audio processing** <br>
 M. Martínez, J. Koo, W.-H. Liao, Y. Mitsufuji, W. Choi, J. Serrà, & G. Fabbro. <br>
 *Patent* US-63/975,772 (Feb 4, 2026).
@@ -1256,4 +1261,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: March 2026]</i></div>
+<div style="text-align: right"><i>[Last edit: April 2026]</i></div>
