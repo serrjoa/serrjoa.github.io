@@ -67,13 +67,13 @@ E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 
 > **Chain-of-thought: epistemic flaws and fictional explanations** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
-*Human-Centered Explainable AI (HCXAI) Workshop at CHI 2026*, in press. Apr 2026. <br>
+*Human-Centered Explainable AI (HCXAI) Workshop at CHI 2026*. Apr 2026. <br>
 \[[web](https://hcxai.jimdosite.com/)\]
 
 > **Emergent, not immanent: a Baradian reading of explainable AI** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
-*ACM CHI Conf. on Human Factors in Computing Systems (CHI)*, in press. Apr 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2601.15029)\] \[doi\]
+*ACM CHI Conf. on Human Factors in Computing Systems (CHI)*, no. 1446. Apr 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2601.15029)\] \[[doi](https://doi.org/10.1145/3772318.3790725)\]
 
 > **Woosh: a sound effects foundation model** <br>
 G. Hadjeres, M. Ferras, K. Koutini, B. Weck, A. Bittar, T. Hummel, Z. Lahrici, H. Missoum, J. Serrà, & Y. Mitsufuji. <br>
