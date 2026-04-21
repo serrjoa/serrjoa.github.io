@@ -76,7 +76,7 @@ F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 \[[arxiv](https://arxiv.org/abs/2601.15029)\] \[[doi](https://doi.org/10.1145/3772318.3790725)\]
 
 > **Woosh: a sound effects foundation model** <br>
-G. Hadjeres, M. Ferras, K. Koutini, B. Weck, A. Bittar, T. Hummel, Z. Lahrici, H. Missoum, J. Serrà, & Y. Mitsufuji. <br>
+G. Hadjeres, M. Ferras, K. Koutini, B. Weck, A. Bittar, T. Hummel, Z. Lahrichi, H. Missoum, J. Serrà, & Y. Mitsufuji. <br>
 *Technical Report*. Apr 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2604.01929)\] \[[code](https://github.com/SonyResearch/Woosh)\] \[[checkpoints](https://github.com/SonyResearch/Woosh/releases)\] \[[demo](https://sonyresearch.github.io/Woosh/)\]
 
