@@ -58,7 +58,7 @@ A. Gui, W. Choi, J. Koo, K. Shimada, T. Shibuya, J. Serrà, W.-H. Liao, & Y. Mit
 > **Automatic music sample identification with multi-track contrastive learning** <br>
 A. Riou, J. Serrà, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 14587-14591. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2510.11507)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11461576)\] \[[code](https://github.com/sony/sampleid)\] \[[checkpoint](https://zenodo.org/records/17413869)\]
+\[[arxiv](https://arxiv.org/abs/2510.11507)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11461576)\] \[[code](https://github.com/sony/sampleid)\] \[[checkpoint](https://zenodo.org/records/17413869)\] \[[metadata](https://github.com/sony/sampleid/tree/main/metadata)\]
 
 > **Leveraging Whisper embeddings for audio-based lyrics matching** <br>
 E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
