@@ -47,23 +47,23 @@ F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 
 > **Automatic music mixing using a generative model of effect embeddings** <br>
 E. Moliner, M.A. Martínez-Ramírez, J. Koo, W.-H. Liao, K.W. Cheuk, J. Serrà, V. Välimäki, & Y. Mitsufuji. <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2511.08040)\] \[doi\] \[[demo](https://sonyresearch.github.io/MEGAMI)\] \[[code](https://github.com/SonyResearch/MEGAMI)\] \[[checkpoints](https://github.com/SonyResearch/MEGAMI?tab=readme-ov-file#-checkpoints)\]
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 14582-14586. May 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2511.08040)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11462677)\] \[[demo](https://sonyresearch.github.io/MEGAMI)\] \[[code](https://github.com/SonyResearch/MEGAMI)\] \[[checkpoints](https://github.com/SonyResearch/MEGAMI?tab=readme-ov-file#-checkpoints)\]
 
 > **Towards blind data cleaning: a case study in music source separation** <br>
 A. Gui, W. Choi, J. Koo, K. Shimada, T. Shibuya, J. Serrà, W.-H. Liao, & Y. Mitsufuji. <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2510.15409)\] \[doi\]
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 14882-14886. May 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2510.15409)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11462165)\]
 
 > **Automatic music sample identification with multi-track contrastive learning** <br>
 A. Riou, J. Serrà, & Y. Mitsufuji. <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2510.11507)\] \[doi\] \[[code](https://github.com/sony/sampleid)\] \[[checkpoint](https://zenodo.org/records/17413869)\]
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 14587-14591. May 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2510.11507)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11461576)\] \[[code](https://github.com/sony/sampleid)\] \[[checkpoint](https://zenodo.org/records/17413869)\]
 
 > **Leveraging Whisper embeddings for audio-based lyrics matching** <br>
 E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
-*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, in press. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2510.08176)\] \[doi\] \[[code](https://github.com/helemanc/audio-based-lyrics-matching)\] \[[checkpoints](https://huggingface.co/audio-based-lyrics-matching)\]
+*IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 15967-15971. May 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2510.08176)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11461231)\] \[[code](https://github.com/helemanc/audio-based-lyrics-matching)\] \[[checkpoints](https://huggingface.co/audio-based-lyrics-matching)\]
 
 > **Chain-of-thought: epistemic flaws and fictional explanations** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
