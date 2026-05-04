@@ -65,7 +65,7 @@ E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 15967-15971. May 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2510.08176)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11461231)\] \[[code](https://github.com/helemanc/audio-based-lyrics-matching)\] \[[checkpoints](https://huggingface.co/audio-based-lyrics-matching)\]
 
-> **Training Data Attribution with Mirrored Unlearning and Loss Ratios** <br>
+> **Training data attribution with mirrored unlearning and loss ratios** <br>
 J. Serrà, F. Morreale, Y. Mitsufuji & W.-H. Liao. <br>
 *Patent* US-19/662,151 (Apr 29, 2026).
 
