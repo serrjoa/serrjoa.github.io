@@ -33,6 +33,11 @@ I am a staff research scientist and team lead with [Sony AI](https://ai.sony/) (
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **Training data attribution in diffusion models via mirrored unlearning and noise-consistent skew** <br>
+J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
+*ArXiv*, xxxxx. May 2026. <br>
+\[arxiv\] \[code\]
+
 > **Attribution-by-design: ensuring inference-time provenance in generative music systems** <br>
 F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 *ArXiv*, 2510.08062. Oct 2025. <br>
