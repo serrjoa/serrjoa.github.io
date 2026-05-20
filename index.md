@@ -97,9 +97,9 @@ M. Martínez, J. Koo, W.-H. Liao, Y. Mitsufuji, W. Choi, J. Serrà, & G. Fabbro.
 
 > **Large-scale training data attribution for music generative models via unlearning** <br>
 W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiya, N. Murata, Y. Takida, W.-H. Liao, & Y. Mitsufuji. <br>
-*Advances in Neural Information Processing Systems (NeurIPS)*, in press - *Creative AI Track*. Dec 2025. <br>
+*Advances in Neural Information Processing Systems (NeurIPS) - Creative AI Track*. Dec 2025. <br>
 (Also presented at *AI Heard That! ICML Workshop on Machine Learning for Audio* in Jul 2025) <br>
-\[[arxiv](https://arxiv.org/abs/2506.18312)\] \[neurips\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
+\[[arxiv](https://arxiv.org/abs/2506.18312)\] \[[openreview](https://openreview.net/forum?id=qj3ps8lNIf)\] \[[presentation](https://slideslive.com/39044651/largescale-training-data-attribution-for-music-generative-models-via-unlearning?ref=speaker-27154)\]
 
 > **Enhancing neural audio fingerprint robustness to audio degradation for music identification** <br>
 R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
