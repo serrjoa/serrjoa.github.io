@@ -50,11 +50,11 @@ F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 
 ### 2026
 
-> **Method to structure playlist navigation and song recommendation in a catalogue of mixed AI and human music** <br>
+> **Apparatus and method for determining and transmitting musical tracks from a musical track catalog** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji <br>
 *Patent* US-19/700,642 (Jun 8, 2026).
 
-> **Method for AI music genealogy tracking** <br>
+> **Apparatus and method for registering a generated musical track in an append-only data structure** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji <br>
 *Patent* US-19/700,619 (Jun 8, 2026).
 
@@ -78,7 +78,7 @@ E. Mancini, J. Serrà, P. Torroni, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 15967-15971. May 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2510.08176)\] \[[doi](https://doi.org/10.1109/ICASSP55912.2026.11461231)\] \[[code](https://github.com/helemanc/audio-based-lyrics-matching)\] \[[checkpoints](https://huggingface.co/audio-based-lyrics-matching)\]
 
-> **Training data attribution with mirrored unlearning and loss ratios** <br>
+> **Apparatus and method for determining attribution scores for training data instances** <br>
 J. Serrà, F. Morreale, Y. Mitsufuji & W.-H. Liao. <br>
 *Patent* US-19/662,151 (Apr 29, 2026).
 
@@ -116,7 +116,7 @@ R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, &
 
 > **System and method for attributing an output of a generative artificial intelligence (AI) system** <br>
 F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
-*Patent* US-19/341,289 (Sep 26, 2025).
+*Patent* US-19/341,289, US-19/553,498 (Sep 26, 2025).
 
 > **A comprehensive real-world assessment of audio watermarking algorithms: will they survive neural codecs?** <br>
 Y. Özer\*, W. Choi\*, J. Serrà, M.K. Singh, W.-H. Liao, & Y. Mitsufuji. <br>
