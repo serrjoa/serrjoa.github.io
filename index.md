@@ -51,11 +51,11 @@ F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 ### 2026
 
 > **Apparatus and method for determining and transmitting musical tracks from a musical track catalog** <br>
-F. Morreale, J. Serrà, & Y. Mitsufuji <br>
+F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 *Patent* US-19/700,642 (Jun 8, 2026).
 
 > **Apparatus and method for registering a generated musical track in an append-only data structure** <br>
-F. Morreale, J. Serrà, & Y. Mitsufuji <br>
+F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
 *Patent* US-19/700,619 (Jun 8, 2026).
 
 > **Automatic music mixing using a generative model of effect embeddings** <br>
