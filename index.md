@@ -50,6 +50,14 @@ F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
 
 ### 2026
 
+> **Method to structure playlist navigation and song recommendation in a catalogue of mixed AI and human music** <br>
+F. Morreale, J. Serrà, & Y. Mitsufuji <br>
+*Patent* US-19/700,642 (Jun 8, 2026).
+
+> **Method for AI music genealogy tracking** <br>
+F. Morreale, J. Serrà, & Y. Mitsufuji <br>
+*Patent* US-19/700,619 (Jun 8, 2026).
+
 > **Automatic music mixing using a generative model of effect embeddings** <br>
 E. Moliner, M.A. Martínez-Ramírez, J. Koo, W.-H. Liao, K.W. Cheuk, J. Serrà, V. Välimäki, & Y. Mitsufuji. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*, pp. 14582-14586. May 2026. <br>
@@ -1272,4 +1280,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: April 2026]</i></div>
+<div style="text-align: right"><i>[Last edit: June 2026]</i></div>
