@@ -38,17 +38,17 @@ J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
 *ArXiv*, 2605.17938. May 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2605.17938)\] \[[code](https://github.com/sony/mucs/)\]
 
-> **Attribution-by-design: ensuring inference-time provenance in generative music systems** <br>
-F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
-*ArXiv*, 2510.08062. Oct 2025. <br>
-\[[arxiv](https://arxiv.org/abs/2510.08062)\]
-
 
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
 
 ### 2026
+
+> **Unified musical track and version identification at scale and in the wild** <br>
+R.O. Araz, J. Serrà, Y. Mitsufuji, X. Serra, & D. Bogdanov. <br>
+*Proc. of the Int. Soc. for Music Information Retrieval (ISMIR) Conf.*, in press. Nov 2026. <br>
+\[arxiv\] \[ismir\]
 
 > **Apparatus and method for determining and transmitting musical tracks from a musical track catalog** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
@@ -113,6 +113,11 @@ W. Choi\*, J. Koo\*, K.W. Cheuk\*, J. Serrà, M.A. Martínez-Ramírez, Y. Ikemiy
 R.O. Araz, G. Cortès-Sebastià, E. Molina, J. Serrà, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 *Int. Soc. for Music Information Retrieval Conf. (ISMIR)*, pp. 399-406. Oct 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2506.22661)\] \[[doi](https://doi.org/10.5281/zenodo.17706424)\] \[[code](https://github.com/raraz15/neural-music-fp)\] \[[checkpoints](https://doi.org/10.5281/zenodo.15719945)\]
+
+> **Attribution-by-design: ensuring inference-time provenance in generative music systems** <br>
+F. Morreale, W. Hutiri, J. Serrà, A. Xiang, & Y. Mitsufuji. <br>
+*Technical Report*. Oct 2025. <br>
+\[[arxiv](https://arxiv.org/abs/2510.08062)\]
 
 > **System and method for attributing an output of a generative artificial intelligence (AI) system** <br>
 F. Morreale, J. Serrà, Y. Mitsufuji, W. Hutiri, & A. Xiang. <br>
