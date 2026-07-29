@@ -1178,7 +1178,11 @@ Appearances in media:
 
 ## Students/Interns <a name="misc-students"></a>
 
-**R.O. Araz**. *Building factual super-similarity for music segments*. PhD thesis, Universitat Pompeu Fabra. 2022-Ongoing. Co-directed with D. Bogdanov and X. Serra.
+**R.O. Araz**. *Building factual super-similarity for music segments*. PhD thesis, Universitat Pompeu Fabra. 2022-Ongoing. Co-directed with D. Bogdanov & X. Serra.
+
+**J. Kim**. *Training data attribution for music diffusion models*. Student internship, Sony AI. August 2025. Co-supervised with K.-W. Cheuk & W.-H. Liao.
+
+**S. Liu**. *Efficient, embedding-based training data attribution in diffusion models*. Student internship, Sony AI. August 2025. Co-supervised with K.-W. Cheuk & W.-H. Liao.
 
 **D. Goswami**. *Training data attribution in diffusion models*. Student internship, Sony AI. October 2025.
 
