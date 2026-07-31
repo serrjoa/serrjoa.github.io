@@ -45,7 +45,7 @@ J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
 
 ### 2026
 
-> **Unified musical track and version identification at scale and in the wild** <br>
+> **Unified music identification for tracks and versions** <br>
 R.O. Araz, J. Serrà, Y. Mitsufuji, X. Serra, & D. Bogdanov. <br>
 *Proc. of the Int. Soc. for Music Information Retrieval (ISMIR) Conf.*, in press. Nov 2026. <br>
 \[arxiv\] \[doi\] \[code\] \[checkpoint\]
