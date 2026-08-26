@@ -48,7 +48,7 @@ J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
 > **Unified music identification for tracks and versions** <br>
 R.O. Araz, J. Serrà, Y. Mitsufuji, X. Serra, & D. Bogdanov. <br>
 *Proc. of the Int. Soc. for Music Information Retrieval (ISMIR) Conf.*, in press. Nov 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2608.19919)\] \[doi\] \[code\] \[checkpoint\]
+\[[arxiv](https://arxiv.org/abs/2608.19919)\] \[doi\] \[[code](https://github.com/raraz15/unified-track-and-version-id)\] \[[checkpoint](https://doi.org/10.5281/zenodo.22016080)\]
 
 > **Apparatus and method for determining and transmitting musical tracks from a musical track catalog** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
