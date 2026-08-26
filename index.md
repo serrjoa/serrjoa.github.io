@@ -48,7 +48,7 @@ J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
 > **Unified music identification for tracks and versions** <br>
 R.O. Araz, J. Serrà, Y. Mitsufuji, X. Serra, & D. Bogdanov. <br>
 *Proc. of the Int. Soc. for Music Information Retrieval (ISMIR) Conf.*, in press. Nov 2026. <br>
-\[arxiv\] \[doi\] \[code\] \[checkpoint\]
+\[[arxiv](https://arxiv.org/abs/2608.19919)\] \[doi\] \[code\] \[checkpoint\]
 
 > **Apparatus and method for determining and transmitting musical tracks from a musical track catalog** <br>
 F. Morreale, J. Serrà, & Y. Mitsufuji. <br>
@@ -1008,7 +1008,7 @@ J. Serrà<br>
 
 ## Experience/Education <a name="misc-experience"></a>
 
-**[Sony](https://www.sony.com/en/)** (2024-Present). Staff research scientist and team lead, Music Foundation Model Team, Corporate Technology Center.
+**[Sony](https://www.sony.com/en/)** (2024-Present). Staff research scientist and team lead, Music Team, Corporate Technology Center.
 
 **[Dolby Laboratories](https://www.dolby.com/)** (2019-2024). Staff research scientist, senior staff research scientist, and research manager of the Applied AI team, Advanced Technology Group.
 
@@ -1033,7 +1033,7 @@ J. Serrà<br>
 **Journal referee**: Connection Science (2007), EURASIP Journal on Advances on Signal Processing (2010), IEEE Journal of Selected Topics in Signal Processing (2011), Journal of New Music Research (2012-2014), Journal of Intelligent Information Systems (2012), Artificial Intelligence (2013-2014), IEEE Trans. on Audio, Speech and Language Processing (2013-2014), IEEE Trans. on Multimedia (2014-2015), Knowledge and Information Systems (2014), PLoS ONE (2014), Information Sciences (2014), EURASIP Journal on Audio, Speech, and Music Processing (2015), ACM Trans. on Multimedia Computing, Communications, and Applications (2015-2016), Mathematical Problems in Engineering (2016), Knowledge-Based Systems (2017).<br>
 *--- Since 2017, I am not reviewing for journals that have publication or article access paywalls.*
 
-**Conference reviewer or area chair**: ISMIR (2008-2014, 2024-2025), ICMC (2009-2010), SMC (2010-2013), ICASSP (2011-2013, 2016), ACM-MM (2013-2014), AES (2013), TRI (2015), UbiComp (2015), AAAI (2016-2018), ICWSM (2017), NIPS-ML4Audio (2017), CCIA (2018), KDD (2019), IJCAI (2019), NeurIPS (2020-2021, 2025-2026), ICLR (2021-2022), ICML (2021-2022, 2024), INTERSPEECH (2021-2022).<br>
+**Conference reviewer or area chair**: ISMIR (2008-2014, 2024-2025), ICMC (2009-2010), SMC (2010-2013), ICASSP (2011-2013, 2016), ACM-MM (2013-2014), AES (2013), TRI (2015), UbiComp (2015), AAAI (2016-2018), ICWSM (2017), NIPS-ML4Audio (2017), CCIA (2018), KDD (2019), IJCAI (2019), NeurIPS (2020-2021, 2025-2027), ICLR (2021-2022), ICML (2021-2022, 2024), INTERSPEECH (2021-2022).<br>
 *--- Since 2018, I am not reviewing for conferences that have publication or article access paywalls.*
 
 **Conference organization**: MIRUM (2011-2012), SMC 2010, IberSpeech 2018, DLBCN (2018-2019, 2021-2026).
@@ -1082,9 +1082,7 @@ Publicly-funded:
 
 Privately-funded:
 
-* Of course, several projects at Dolby Laboratories.
-
-* Of course, several projects at Telefónica R&D.
+* Of course, several projects at Sony, Dolby Laboratories, and Telefónica R&D.
 
 * [AISLE](http://www.iiia.csic.es/en/project/aisle) (2012): **Artificial intelligence software for logistics in enterprises**. Conzentra Tecnologías de la Información S.L., IIIA-010108120004.
 
@@ -1288,4 +1286,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: July 2026]</i></div>
+<div style="text-align: right"><i>[Last edit: August 2026]</i></div>
