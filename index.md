@@ -33,6 +33,11 @@ I am a staff research scientist and team lead with [Sony](https://www.sony.com/e
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **On the human and computer alignment of attribute-based music matches** <br>
+R. Batlle-Roca, W. Choi, J. Serrà, F. Morreale, W.-H. Liao, X. Serra, E. Gómez, & Y. Mitsufuji. <br>
+*ArXiv*, 2609.00987. Sep 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2609.00987)\] \[[website](https://roserbatlleroca.github.io/matcha/index.html)\] \[[code/data](https://github.com/roserbatlleroca/matcha)\]
+
 > **Training data attribution in diffusion models via mirrored unlearning and noise-consistent skew** <br>
 J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
 *ArXiv*, 2605.17938. May 2026. <br>
