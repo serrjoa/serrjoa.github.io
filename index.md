@@ -963,6 +963,8 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
+**Attribution in music AI: concepts, systems, and implications**: Tutorial at the Int. Soc. for Music Information Retrieval Conf. (8/11/2026) \[[ismir](https://ismir2026.ismir.net/tutorials#page-section-5)\] \[slides\]. With J. Lee, F. Morreale, W. Kim, & Y. Mitsufuji.
+
 **Musical version matching with segment reductions and contrastive learning**: Invited talk at the [MILA/Concordia Conversational AI Reading Group](https://poonehmousavi.github.io/rg.html) (23/10/25), keynote talk at the [2025 CVCRD Workshop](https://www.cvc.uab.es/cvcrd/) (25/7/2025), invited talk at the LLM Mini-Workshop of [Universitat de Lleida](https://www.eps.udl.cat/ca/) (26/3/2025).
 
 **How I got here (and some potentially useful advice that came up in the way)**: Keynote talk at the opening ceremony of the 2025 EMAI Master at Universitat Pompeu Fabra (1/9/2025).
