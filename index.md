@@ -148,6 +148,11 @@ I. Tsiamas, S. Pascual, C. Yeh, & J. Serrà. <br>
 *IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)*. Apr 2025. <br>
 \[[arxiv](https://arxiv.org/abs/2407.05782)\] \[[doi](https://doi.org/10.1109/ICASSP49660.2025.10888656)\]
 
+> **Carnatic varnam dataset** <br>
+X. Serra, G.K. Koduri, V. Ishwar, & J. Serrà. <br>
+*Repositori de Dades de Recerca, UPF*. 2025. <br>
+\[[doi](https://doi.org/10.34810/DATA2311)\]
+
 ### 2024
 
 > **Discogs-VINet-MIREX** <br>
@@ -1293,4 +1298,4 @@ Map:
 
 ---
 
-<div style="text-align: right"><i>[Last edit: August 2026]</i></div>
+<div style="text-align: right"><i>[Last edit: September 2026]</i></div>
