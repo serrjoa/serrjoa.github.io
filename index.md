@@ -33,6 +33,11 @@ I am a staff research scientist and team lead with [Sony](https://www.sony.com/e
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **Training music sample identification models on real sample pairs** <br>
+R.O. Araz, J. Serrà, X. Lizarraga-Seijas, E. Molina, X. Serra, Y. Mitsufuji, & D. Bogdanov <br>
+*ArXiv*, 2609.21911. Sep 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2609.21911)\] \[[code](https://github.com/raraz15/sample-identification)\]
+
 > **On the human and computer alignment of attribute-based music matches** <br>
 R. Batlle-Roca, W. Choi, J. Serrà, F. Morreale, W.-H. Liao, X. Serra, E. Gómez, & Y. Mitsufuji. <br>
 *ArXiv*, 2609.00987. Sep 2026. <br>
