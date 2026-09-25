@@ -43,17 +43,17 @@ R. Batlle-Roca, W. Choi, J. Serrà, F. Morreale, W.-H. Liao, X. Serra, E. Gómez
 *ArXiv*, 2609.00987. Sep 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2609.00987)\] \[[website](https://roserbatlleroca.github.io/matcha/index.html)\] \[[code/data](https://github.com/roserbatlleroca/matcha)\]
 
-> **Training data attribution in diffusion models via mirrored unlearning and noise-consistent skew** <br>
-J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
-*ArXiv*, 2605.17938. May 2026. <br>
-\[[arxiv](https://arxiv.org/abs/2605.17938)\] \[[code](https://github.com/sony/mucs/)\]
-
 
 \[[Back to top](#beginning)\]
 
 ## Recent (2021-current) <a name="pub-recent"></a>
 
 ### 2026
+
+> **Training data attribution in diffusion models via mirrored unlearning and noise-consistent skew** <br>
+J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
+*Advances in Neural Information Processing Systems (NeurIPS)*, in press. Dec 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2605.17938)\] \[neurips\] \[[code](https://github.com/sony/mucs/)\]
 
 > **Unified music identification for tracks and versions** <br>
 R.O. Araz, J. Serrà, Y. Mitsufuji, X. Serra, & D. Bogdanov. <br>
