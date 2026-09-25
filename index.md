@@ -56,7 +56,7 @@ J. Serrà, D. Goswami, F. Morreale, W.-H. Liao, & Y. Mitsufuji. <br>
 \[[arxiv](https://arxiv.org/abs/2605.17938)\] \[neurips\] \[[code](https://github.com/sony/mucs/)\]
 
 > **Information processing apparatus, information processing method, and non-transitory computer-readable medium** <br>
-S. Liu, J. Serrà, K.W. Cheuk, J. Kim, W. Choi, Y. Ikemiya, W.-H. Liao, J. Ma, & Y. Mitsufuji. <br>
+S. Liu, J. Serrà, K.W. Cheuk, J. Kim, W. Choi, Y. Ikemiya, W.-H. Liao, & Y. Mitsufuji. <br>
 *Patent* US-19/809,864 (Sep 16, 2026).
 
 > **Unified music identification for tracks and versions** <br>
