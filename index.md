@@ -33,8 +33,13 @@ I am a staff research scientist and team lead with [Sony](https://www.sony.com/e
 
 ## Preprints <a name="pub-preprints"></a>
 
+> **Distilling diffusion score discrepancy for efficient training data attribution** <br>
+S. Liu, J. Serrà, K.W. Cheuk, J. Kim, W. Choi, Y. Ikemiya, W.-H. Liao, J.W. Ma, & Y. Mitsufuji. <br>
+*ArXiv*, 2609.38776. Sep 2026. <br>
+\[[arxiv](https://arxiv.org/abs/2609.38776)\] \[code\]
+
 > **Training music sample identification models on real sample pairs** <br>
-R.O. Araz, J. Serrà, X. Lizarraga-Seijas, E. Molina, X. Serra, Y. Mitsufuji, & D. Bogdanov <br>
+R.O. Araz, J. Serrà, X. Lizarraga-Seijas, E. Molina, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 *ArXiv*, 2609.21911. Sep 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2609.21911)\] \[[code](https://github.com/raraz15/sample-identification)\] \[checkpoint\]
 
@@ -1199,9 +1204,11 @@ Appearances in media:
 
 **R.O. Araz**. *Building factual super-similarity for music segments*. PhD thesis, Universitat Pompeu Fabra. 2022-Ongoing. Co-directed with D. Bogdanov & X. Serra.
 
-**J. Kim**. *Training data attribution for music diffusion models*. Student internship, Sony. August 2025. Co-supervised with K.-W. Cheuk & W.-H. Liao.
+**A. Banerjee**. *Learning version identification embeddings without labels*. Student internship, Sony. January 2027.
 
-**S. Liu**. *Efficient, embedding-based training data attribution in diffusion models*. Student internship, Sony. August 2025. Co-supervised with K.-W. Cheuk & W.-H. Liao.
+**J. Kim**. *Training data attribution for music diffusion models*. Student internship, Sony. August 2026. Co-supervised with K.-W. Cheuk & W.-H. Liao.
+
+**S. Liu**. *Efficient, embedding-based training data attribution in diffusion models*. Student internship, Sony. August 2026. Co-supervised with K.-W. Cheuk & W.-H. Liao.
 
 **D. Goswami**. *Training data attribution in diffusion models*. Student internship, Sony AI. October 2025.
 
