@@ -39,7 +39,7 @@ S. Liu, J. Serrà, K.W. Cheuk, J. Kim, W. Choi, Y. Ikemiya, W.-H. Liao, J.W. Ma,
 \[[arxiv](https://arxiv.org/abs/2609.38776)\] \[code\]
 
 > **Training music sample identification models on real sample pairs** <br>
-R.O. Araz, J. Serrà, X. Lizarraga-Seijas, E. Molina, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
+R.O. Araz, J. Serrà, X. Lizarraga-Seijas, X. Serra, Y. Mitsufuji, & D. Bogdanov. <br>
 *ArXiv*, 2609.21911. Sep 2026. <br>
 \[[arxiv](https://arxiv.org/abs/2609.21911)\] \[[code](https://github.com/raraz15/sample-identification)\] \[checkpoint\]
 
