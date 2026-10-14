@@ -982,7 +982,7 @@ J. Serrà<br>
 
 # Talks <a name="talks"></a>
 
-**AI for music protection**: Keynote talk at IRCAM's [CTRL+SOUND Neural Audio Workshop](https://www.stms-lab.fr/agenda/ctrlsound/detail) (4/12/2026).
+**Protecting music in the age of AI: what might work, what might not, and why**: Keynote talk at IRCAM's [CTRL+SOUND Neural Audio Workshop](https://www.stms-lab.fr/agenda/ctrlsound/detail) (4/12/2026).
 
 **Attribution in music AI: concepts, systems, and implications**: Tutorial at the Int. Soc. for Music Information Retrieval Conf. (8/11/2026) \[[ismir](https://ismir2026.ismir.net/tutorials#page-section-5)\] \[slides\]. With J. Lee, F. Morreale, W. Kim, & Y. Mitsufuji.
 
